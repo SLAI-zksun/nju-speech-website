@@ -1,23 +1,38 @@
-{% assign button = include %}
-{% assign button = button | hash_default: site.data.types[include.type] %}
+{% assign def = site.data.types[include.type] %}
+{% assign b_icon = include.icon | default: def.icon %}
+{% assign b_text = include.text | default: def.text %}
+{% assign b_tooltip = include.tooltip | default: def.tooltip %}
+{% assign b_link = include.link %}
+{% if def and def.link %}
+  {% if def.link contains "$VALUE" %}
+    {% assign b_link = def.link | replace: "$VALUE", include.link %}
+  {% else %}
+    {% assign b_link = def.link %}
+  {% endif %}
+{% endif %}
 
-{% if button.link or button.icon or button.text %}
+{% if b_link or b_icon or b_text %}
+  {% assign b_href = b_link %}
+  {% if b_href contains "://" or b_href contains "mailto:" or b_href contains "tel:" %}
+  {% else %}
+    {% assign b_href = b_href | relative_url %}
+  {% endif %}
   <div class="button-wrapper">
     <a
       class="button"
-      href="{{ button.link | replace: "$LINK", button.link | relative_url }}"
-      {% if button.tooltip %}
-        data-tooltip="{{ button.tooltip | xml_escape }}"
+      href="{{ b_href }}"
+      {% if b_tooltip %}
+        data-tooltip="{{ b_tooltip | xml_escape }}"
       {% endif %}
       data-style="{{ include.style }}"
       {% if include.flip %}
         data-flip
       {% endif %}
-      aria-label="{{ button.tooltip | default: button.icon | default: "button" | regex_strip }}"
+      aria-label="{{ b_tooltip | default: b_icon | default: "button" | strip }}"
     >
-      {% include icon.html icon=button.icon %}
-      {% if button.text and button.text != "" %}
-        <span>{{ button.text }}</span>
+      {% include icon.html icon=b_icon %}
+      {% if b_text and b_text != "" %}
+        <span>{{ b_text }}</span>
       {% endif %}
     </a>
   </div>

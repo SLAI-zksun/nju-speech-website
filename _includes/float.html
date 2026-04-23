@@ -7,5 +7,9 @@
     data-clear
   {% endif %}
 >
-  {{ include.content | markdownify }}
+  {% if include.markdownify == false %}
+    {{ include.content }}
+  {% else %}
+    {{ include.content | markdownify }}
+  {% endif %}
 </div>
