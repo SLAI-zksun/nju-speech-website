@@ -43,22 +43,22 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Team | SLAI-zksun</title>
+<title>实验室人员 | NJU-SPEECH</title>
 
-<link rel="icon" href="/nju-speech-website/images/icon.png">
+<link rel="icon" href="/nju-speech-website/requirements/v1/figs/smartlab.png">
 
-<meta name="title" content="Team">
-<meta name="description" content="An engaging 1-3 sentence description of your lab.">
+<meta name="title" content="实验室人员">
+<meta name="description" content="nju-speech is a research group led by Shuai Wang, focusing on speech, music, and audio intelligence.">
 
-<meta property="og:title" content="Team">
-<meta property="og:site_title" content="SLAI-zksun">
-<meta property="og:description" content="An engaging 1-3 sentence description of your lab.">
+<meta property="og:title" content="实验室人员">
+<meta property="og:site_title" content="NJU-SPEECH">
+<meta property="og:description" content="nju-speech is a research group led by Shuai Wang, focusing on speech, music, and audio intelligence.">
 <meta property="og:url" content="https://slai-zksun.github.io/nju-speech-website">
 <meta property="og:image" content="/nju-speech-website/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Team">
-<meta property="twitter:description" content="An engaging 1-3 sentence description of your lab.">
+<meta property="twitter:title" content="实验室人员">
+<meta property="twitter:description" content="nju-speech is a research group led by Shuai Wang, focusing on speech, music, and audio intelligence.">
 <meta property="twitter:url" content="https://slai-zksun.github.io/nju-speech-website">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/nju-speech-website/images/share.jpg">
@@ -73,12 +73,12 @@
     
       "@type": "WebSite",
     
-    "name": "Team",
-    "description": "An engaging 1-3 sentence description of your lab.",
-    "headline": "Team",
+    "name": "实验室人员",
+    "description": "nju-speech is a research group led by Shuai Wang, focusing on speech, music, and audio intelligence.",
+    "headline": "实验室人员",
     "publisher": {
       "@type": "Organization",
-      "logo": { "@type": "ImageObject", "url": "/nju-speech-website/images/icon.png" }
+      "logo": { "@type": "ImageObject", "url": "/nju-speech-website/requirements/v1/figs/smartlab.png" }
     },
     "url": "https://slai-zksun.github.io/nju-speech-website"
   }
@@ -227,6 +227,10 @@
   
 
   
+    <link href="/nju-speech-website/_styles/nju-speech.css" rel="stylesheet">
+  
+
+  
     <link href="/nju-speech-website/_styles/paragraph.css" rel="stylesheet">
   
 
@@ -350,22 +354,116 @@
 <script src="https://unpkg.com/tippy.js@6" defer></script>
 <script src="https://unpkg.com/mark.js@8" defer></script>
 
-<!-- include all js in scripts folder -->
+<!-- include all js in scripts folder (avoid where_exp with complex strings for GitHub Pages / Jekyll 3) -->
 
 
-  <script src="/nju-speech-website/_scripts/anchors.js"></script>
+  
+    
+      <script src="/nju-speech-website/_scripts/about-scrollspy.js"></script>
+    
+  
 
-  <script src="/nju-speech-website/_scripts/dark-mode.js"></script>
+  
+    
+      <script src="/nju-speech-website/_scripts/anchors.js"></script>
+    
+  
 
-  <script src="/nju-speech-website/_scripts/fetch-tags.js"></script>
+  
+    
+      <script src="/nju-speech-website/_scripts/dark-mode.js"></script>
+    
+  
 
-  <script src="/nju-speech-website/_scripts/search.js"></script>
+  
+    
+      <script src="/nju-speech-website/_scripts/fetch-tags.js"></script>
+    
+  
 
-  <script src="/nju-speech-website/_scripts/site-search.js"></script>
+  
+    
+      <script src="/nju-speech-website/_scripts/highlights-dynamic.js"></script>
+    
+  
 
-  <script src="/nju-speech-website/_scripts/table-wrap.js"></script>
+  
+    
+      <script src="/nju-speech-website/_scripts/language-toggle.js"></script>
+    
+  
 
-  <script src="/nju-speech-website/_scripts/tooltip.js"></script>
+  
+    
+      <script src="/nju-speech-website/_scripts/project-stars.js"></script>
+    
+  
+
+  
+    
+      <script src="/nju-speech-website/_scripts/publications-paginate.js"></script>
+    
+  
+
+  
+    
+      <script src="/nju-speech-website/_scripts/search.js"></script>
+    
+  
+
+  
+    
+      <script src="/nju-speech-website/_scripts/site-search.js"></script>
+    
+  
+
+  
+    
+      <script src="/nju-speech-website/_scripts/table-wrap.js"></script>
+    
+  
+
+  
+    
+      <script src="/nju-speech-website/_scripts/tooltip.js"></script>
+    
+  
+
+  
+    
+      <script src="/nju-speech-website/_scripts/wechat-qr-dialog.js"></script>
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
 
 </head>
@@ -379,76 +477,20 @@
 
 
 
+
 <header class="background" style="--image: url('/nju-speech-website/images/background.jpg')" data-dark="true">
   <a href="/nju-speech-website/" class="home">
     
       <span class="logo">
         
-          <svg xmlns="http://www.w3.org/2000/svg" viewbox="-40 -60 80 100">
-  <style>
-    .bubble {
-      animation: float 2s ease-out both infinite var(--delay);
-    }
-    @keyframes float {
-      0% {
-        opacity: 0;
-      }
-      50% {
-        transform: translateY(0);
-        opacity: 0;
-      }
-      75% {
-        opacity: 1;
-      }
-      100% {
-        opacity: 0;
-        transform: translateY(-40px);
-      }
-    }
-  </style>
-  <g fill="currentColor" opacity="0.5">
-    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s"></circle>
-    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s"></circle>
-    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s"></circle>
-  </g>
-  <path fill="#38bdf8" d="
-      M 0 -22.5
-      L -19.5 -11.25
-      L -19.5 11.25
-      L 0 22.5
-      L 19.5 11.25
-      L 19.5 -11.25
-      z
-    "></path>
-  <path fill="#bae6fd" d="
-      M 0 -22.5
-      L -19.5 -11.25
-      L 0 0
-      L 19.5 -11.25
-      z
-    "></path>
-  <path fill="none" stroke="currentColor" stroke-width="5" d="
-      M -18 -53
-      L -10 -53
-      L -10 -29.2
-      L -30.3 -17.5
-      L -30.3 17.5
-      L 0 35
-      L 30.3 17.5
-      L 30.3 -17.5
-      L 10 -29.2
-      L 10 -53
-      L 18 -53
-    "></path>
-</svg>
-
+          <img src="/nju-speech-website/requirements/v1/figs/smartlab.png" alt="logo">
         
       </span>
     
     
       <span class="title-text" data-tooltip="Home">
         
-          <span class="title">SLAI-zksun</span>
+          <span class="title">NJU-SPEECH</span>
         
         
       </span>
@@ -460,35 +502,77 @@
   <nav>
     
     
+    
       
-        <a href="/nju-speech-website/research/" data-tooltip="Published works">
-          Research
+        
+        
+        
+        <a href="/nju-speech-website/" data-tooltip="实验室首页" data-tooltip-zh="实验室首页" data-tooltip-en="Home">
+          <span class="lang-zh">首页</span>
+          <span class="lang-en">Home</span>
         </a>
       
     
       
-        <a href="/nju-speech-website/projects/" data-tooltip="Software, datasets, and more">
-          Projects
+        
+        
+        
+        <a href="/nju-speech-website/contact/" data-tooltip="实验室简介" data-tooltip-zh="实验室简介" data-tooltip-en="About">
+          <span class="lang-zh">实验室简介</span>
+          <span class="lang-en">About</span>
         </a>
       
     
       
-        <a href="/nju-speech-website/team/" data-tooltip="About our team">
-          Team
+        
+        
+        
+        <a href="/nju-speech-website/blog/" data-tooltip="新闻公告" data-tooltip-zh="新闻公告" data-tooltip-en="News">
+          <span class="lang-zh">新闻公告</span>
+          <span class="lang-en">News</span>
         </a>
       
     
       
-        <a href="/nju-speech-website/blog/" data-tooltip="Musings and miscellany">
-          Blog
+        
+        
+        
+        <a href="/nju-speech-website/team/" data-tooltip="实验室人员" data-tooltip-zh="实验室人员" data-tooltip-en="People">
+          <span class="lang-zh">实验室人员</span>
+          <span class="lang-en">People</span>
         </a>
       
     
       
-        <a href="/nju-speech-website/contact/" data-tooltip="Email, address, and location">
-          Contact
+        
+        
+        
+        <a href="/nju-speech-website/research/" data-tooltip="研究方向" data-tooltip-zh="研究方向" data-tooltip-en="Directions">
+          <span class="lang-zh">研究方向</span>
+          <span class="lang-en">Directions</span>
         </a>
       
+    
+      
+        
+        
+        
+        <a href="/nju-speech-website/projects/" data-tooltip="研究成果" data-tooltip-zh="研究成果" data-tooltip-en="Publications">
+          <span class="lang-zh">研究成果</span>
+          <span class="lang-en">Publications</span>
+        </a>
+      
+    
+      
+        
+        
+        
+        <a href="/nju-speech-website/contact-us/" data-tooltip="联系我们" data-tooltip-zh="联系我们" data-tooltip-en="Contact">
+          <span class="lang-zh">联系我们</span>
+          <span class="lang-en">Contact</span>
+        </a>
+      
+    
     
   </nav>
 </header>
@@ -511,162 +595,57 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="team">
-<i class="icon fa-solid fa-users"></i>Team</h1>
+    <div class="people-layout">
+  <aside class="people-sidebar">
+  <div class="people-sidebar-title">
+    <span class="lang-zh">实验室人员</span>
+    <span class="lang-en">Lab Members</span>
+  </div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  <background></background>
-  <dark></dark>
-  <size></size>
--->
-
-<div class="portrait-wrapper">
-  <a href="/nju-speech-website/members/jane-smith.html" class="portrait" data-style="" aria-label="Jane Smith">
-    
-      <i class="icon fa-solid fa-microscope"></i>
-    
-
-    <img src="/nju-speech-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/nju-speech-website/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        Jane Smith
-      </span>
-    
-
-    
-      <span class="portrait-description">
-        Principal Investigator
-      </span>
-    
-
-    
-      <span class="portrait-affiliation">
-        University of Colorado
-      </span>
-    
+  <a href="/nju-speech-website/team/" class="active">
+    <span class="lang-zh">教师</span><span class="lang-en">Faculty</span>
   </a>
+  <a href="/nju-speech-website/team/phd/" class="">
+    <span class="lang-zh">博士生</span><span class="lang-en">PhD Students</span>
+  </a>
+  <a href="/nju-speech-website/team/master/" class="">
+    <span class="lang-zh">硕士生</span><span class="lang-en">Master Students</span>
+  </a>
+  <a href="/nju-speech-website/team/undergraduate/" class="">
+    <span class="lang-zh">本科生</span><span class="lang-en">Undergraduates</span>
+  </a>
+  <a href="/nju-speech-website/team/alumni/" class="">
+    <span class="lang-zh">毕业学生</span><span class="lang-en">Alumni</span>
+  </a>
+  <a href="/nju-speech-website/team/visiting/" class="">
+    <span class="lang-zh">访问学者</span><span class="lang-en">Visiting Scholars</span>
+  </a>
+</aside>
+
+
+  <div class="people-content">
+    <section>
+      <h2>
+<span class="lang-zh">教师</span><span class="lang-en">Faculty</span>
+</h2>
+      <div class="member-grid">
+        <article class="member-card">
+          <div class="member-card-media">
+<span class="lang-zh">照片占位符</span><span class="lang-en">Photo Placeholder</span>
 </div>
-
-<div class="portrait-wrapper">
-  <a href="/nju-speech-website/members/john-doe.html" class="portrait" data-style="" aria-label="John Doe">
-    
-      <i class="icon fa-solid fa-graduation-cap"></i>
-    
-
-    <img src="/nju-speech-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/nju-speech-website/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        John Doe
-      </span>
-    
-
-    
-      <span class="portrait-description">
-        PhD Student
-      </span>
-    
-
-    
-  </a>
-</div>
-
-<div class="portrait-wrapper">
-  <a href="/nju-speech-website/members/sarah-johnson.html" class="portrait" data-style="" aria-label="Sarah Johnson">
-    
-      <i class="icon fa-solid fa-code"></i>
-    
-
-    <img src="/nju-speech-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/nju-speech-website/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        Sarah Johnson
-      </span>
-    
-
-    
-      <span class="portrait-description">
-        Lead Programmer
-      </span>
-    
-
-    
-  </a>
-</div>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="2" data-dark="true" style="--image: url('/nju-speech-website/images/background.jpg')">
-    <!--
-  <background>images/background.jpg</background>
-  <dark>true</dark>
-  <size>2</size>
--->
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  <background></background>
-  <dark></dark>
-  <size></size>
--->
-
-<div class="grid" data-style="square">
-  
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/nju-speech-website/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/nju-speech-website/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/nju-speech-website/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/nju-speech-website/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/nju-speech-website/images/photo.jpg" style="
-        width: auto;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/nju-speech-website/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-
+          <div class="member-card-body">
+            <div class="member-card-heading">
+              <h3>
+<span class="lang-zh">王帅</span><span class="lang-en">Shuai Wang</span>
+</h3>
+              <a class="member-homepage" href="https://shuaiwang-nju.github.io/" target="_blank" rel="noopener noreferrer"><span class="lang-zh">个人主页</span><span class="lang-en">Homepage</span></a>
+            </div>
+            <p><span class="lang-zh">王帅，南京大学智能科学与技术学院准聘副教授，博士生导师，CCF语音对话及听觉专业委员会执行委员。专注于智能音频信号处理研究，涵盖语音、音频事件及音乐等多模态声学信号。2014年本科毕业于西北工业大学，2020年于上海交通大学获博士学位。曾任深圳市大数据研究院副研究员与李海洲教授联合培养博士生；亦曾任腾讯光子工作室高级研究员，领导团队负责面向游戏场景的语音技术的研发与应用。以第一作者或通讯作者在ICASSP、Interspeech等顶级会议期刊发表论文四十余篇，获授权专利十余项。荣获VoxSRC2019、DIHARD2019等国际竞赛冠军及ISCSLP2024最佳论文、最佳学生论文奖。发起开源工具WeSpeaker与WeSep，提供的预训练模型在HuggingFace平台下载量月均超千万次，在学术界与工业界获得广泛应用。目前主持国家自然科学基金青年项目、长三角科技创新共同体联合攻关项目子课题、人工智能教育部重点实验室开放课题及CCF-网易雷火创新基金等多项科研项目。与国内外知名企业及科研院所保持密切合作与交流，积极推荐学生赴腾讯、字节跳动、网易、Meta FAIR等业界头部企业实习，部分学生成功入选腾讯犀牛鸟、字节跳动TopSeed等精英人才计划。</span><span class="lang-en">Shuai Wang is a Tenure-Track Associate Professor at the School of Intelligence Science and Technology, Nanjing University, and the lead of this lab, with ongoing adjunct research collaboration at the Shenzhen Research Institute of Big Data. His research focuses on speaker modeling, target speaker processing, speech synthesis, voice conversion, and music generation. He has continuously published in top-tier speech venues and leads the team to bridge frontier research with practical deployment.</span></p>
+          </div>
+        </article>
+      </div>
+    </section>
+  </div>
 </div>
   </section>
 
@@ -682,7 +661,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p
     </div>
   -->
 
-  <div>
+  <div class="footer-links">
     
       
       
@@ -690,24 +669,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p
 
 
 
+
+
+
+
+  
+  
   <div class="button-wrapper">
-    <a class="button" href="mailto:contact@SLAI-zksun.com" data-tooltip="Email" data-style="bare" aria-label="Email">
+    <a class="button" href="mailto:shuaiwang@nju.edu.cn" data-tooltip="Email" data-style="bare" aria-label="Email">
       <i class="icon fa-solid fa-envelope"></i>
       
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://orcid.org/0000-0001-8713-9213" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
-      <i class="icon fa-brands fa-orcid"></i>
+        <span>Email</span>
       
     </a>
   </div>
@@ -720,10 +692,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p
 
 
 
+
+
+
+
+  
+  
   <div class="button-wrapper">
-    <a class="button" href="https://scholar.google.com/citations?user=ETJoidYAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+    <a class="button" href="https://scholar.google.com/citations?user=vW1ZaucAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
       <i class="icon fa-brands fa-google"></i>
       
+        <span>Google Scholar</span>
+      
     </a>
   </div>
 
@@ -735,54 +715,34 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p
 
 
 
+
+
+
+
+  
+  
   <div class="button-wrapper">
-    <a class="button" href="https://github.com/SLAI-zksun" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+    <a class="button" href="https://github.com/shuaiwang-nju" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
       <i class="icon fa-brands fa-github"></i>
       
-    </a>
-  </div>
-
-
-    
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://twitter.com/SLAI-zksun" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
-      <i class="icon fa-brands fa-twitter"></i>
+        <span>GitHub</span>
       
     </a>
   </div>
 
 
     
-      
-      
-      
-
-
-
-  <div class="button-wrapper">
-    <a class="button" href="https://youtube.com/SLAI-zksun" data-tooltip="YouTube" data-style="bare" aria-label="YouTube">
-      <i class="icon fa-brands fa-youtube"></i>
-      
-    </a>
-  </div>
-
-
     
   </div>
+
+  
 
   <div>
     © 2026
-    SLAI-zksun
-      |   Built with
-    <a href="https://github.com/greenelab/lab-website-template">
-      Lab Website Template
-    </a>
+    NJU-SPEECH
+      |  
+    <span class="lang-zh">南京大学 nju-speech / Smart Group</span>
+    <span class="lang-en">Nanjing University nju-speech / Smart Group</span>
   </div>
 
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">

@@ -9,6 +9,14 @@ footer {
   box-shadow: var(--shadow);
 }
 
+.footer-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem;
+  justify-content: center;
+}
+
 footer a {
   color: var(--text) !important;
 }
