@@ -1,10 +1,11 @@
 {% comment %}
-  see content.html
+  `<!-- section break -->` splits sections in _includes/content.html.
+  background/dark/size are read via regex from the rendered string; keep them inside
+  <template> so they are not shown and nested HTML comments do not confuse kramdown.
 {% endcomment %}
-
 <!-- section break -->
-<!--
+<template class="_content_section_meta" hidden>
   <background>{{ include.background }}</background>
   <dark>{{ include.dark }}</dark>
-  <size>{{ include.size }}</size>
--->
+  <size>{{ include.size | default: "page" }}</size>
+</template>

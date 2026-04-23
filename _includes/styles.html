@@ -1,26 +1,28 @@
 <!-- third party styles -->
 <!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
-<link 
+<link
   href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css"
   rel="stylesheet"
 />
 
-<!-- include all sass in styles folder -->
-{% assign styles = site.pages | where_exp: "file", "file.url contains '/_styles'" %}
-{% for style in styles %}
-  {% unless style.url contains ".map" %}
+<!-- compiled .scss pages (Jekyll 3: avoid where_exp on url — use path like scripts.html) -->
+{% for style in site.pages %}
+  {% assign sp = style.path | default: "" %}
+  {% if sp contains "_styles" and sp contains ".scss" %}
+    {% unless sp contains ".map" %}
     <link
-      href="{{ style.path | replace: ".scss", ".css" | relative_url }}"
+      href="{{ sp | replace: '.scss', '.css' | relative_url }}"
       rel="stylesheet"
     />
-  {% endunless %}
+    {% endunless %}
+  {% endif %}
 {% endfor %}
 
-<!-- include all css in styles folder -->
-{% assign styles = site.static_files
-  | where_exp: "file", "file.path contains '/_styles'"
-  | where_exp: "file", "file.path contains '.css'"
-%}
-{% for style in styles %}
-  <link href="{{ style.path | relative_url }}" rel="stylesheet" />
+<!-- any plain .css dropped under _styles -->
+{% assign sorted_css = site.static_files | sort: "path" %}
+{% for style in sorted_css %}
+  {% assign p = style.path | default: "" %}
+  {% if p contains "_styles" and style.extname == ".css" %}
+    <link href="{{ p | relative_url }}" rel="stylesheet" />
+  {% endif %}
 {% endfor %}
