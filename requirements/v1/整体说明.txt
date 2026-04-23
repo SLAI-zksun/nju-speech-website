@@ -1,0 +1,28 @@
+本项目是实验室官方网站项目，一切文本表述都需要使用官方口吻进行表述
+
+实验室名称为 nju-speech,另一个待定的名字是smart group(speech, music & audio technology research group)，所有有关实验室名称都要采用这两个之一表述
+
+实验室负责人为王帅，副教授，在NJU和SLAI联合招生
+
+网页应该是中英双语的，并可以通过english/中文按钮切换语种
+
+网站应该包含4个子页面，分别是实验室首页，实验室简介，新闻公告，实验室人员，研究方向，研究成果
+
+
+
+----------
+搭建网站所需要的背景文件资料说明如下：
+实验室logo: figs/smartlab.png
+实验室公众号QRcode: figs/QRcode.png
+研究方向：/Users/sunzhaokai/nju-speech-website-main/requirements/v1/directions.json
+实验室人员：/Users/sunzhaokai/nju-speech-website-main/requirements/v1/directions.json
+研究成果：/Users/sunzhaokai/nju-speech-website-main/requirements/v1/publications.json
+
+
+---------
+参考资料：
+王帅个人主页：https://is.nju.edu.cn/ws/main.htm
+https://shuaiwang-nju.github.io/
+https://www.slai.edu.cn/zh-hans/page/41
+实验室目前项目：https://mp.weixin.qq.com/s/KWmW7NiwyTv1qSsIF7mtYA
+

@@ -2,11 +2,7 @@
 {% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
 <footer
-<<<<<<< HEAD
   class="background{% if page.show_footer_wechat %} footer--with-wechat{% endif %}"
-=======
-  class="background"
->>>>>>> d918d4afcce502f2ccbff1fea67cd340873e3154
   style="--image: url('{{ image | relative_url | uri_escape }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
@@ -19,17 +15,12 @@
     </div>
   -->
 
-<<<<<<< HEAD
   <div class="footer-links">
-=======
-  <div>
->>>>>>> d918d4afcce502f2ccbff1fea67cd340873e3154
     {% for link in site.links %}
       {% assign key = link[0] %}
       {% assign value = link[1] %}
       {% include button.html type=key text="" link=value style="bare" %}
     {% endfor %}
-<<<<<<< HEAD
     {% if page.show_footer_wechat %}
       <div class="button-wrapper">
         <button
@@ -67,17 +58,6 @@
     &nbsp; | &nbsp;
     <span class="lang-zh">南京大学 nju-speech / Smart Group</span>
     <span class="lang-en">Nanjing University nju-speech / Smart Group</span>
-=======
-  </div>
-
-  <div>
-    &copy; {{ site.time | date: "%Y" }}
-    {{ site.title }}
-    &nbsp; | &nbsp; Built with
-    <a href="https://github.com/greenelab/lab-website-template">
-      Lab Website Template
-    </a>
->>>>>>> d918d4afcce502f2ccbff1fea67cd340873e3154
   </div>
 
   <input

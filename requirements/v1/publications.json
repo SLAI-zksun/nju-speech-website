@@ -1,0 +1,2147 @@
+[
+  {
+    "title": "BUT system description to voxceleb speaker recognition challenge 2019",
+    "authors": [
+      "H Zeinali",
+      "S Wang",
+      "A Silnova",
+      "P Matějka",
+      "O Plchot"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“BUT system description to voxceleb speaker recognition challenge 2019”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:1910.12592, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:hMod-77fHWUC"
+  },
+  {
+    "title": "Wespeaker: A research and production oriented speaker embedding learning toolkit",
+    "authors": [
+      "H Wang",
+      "C Liang",
+      "S Wang*",
+      "Z Chen",
+      "B Zhang",
+      "X Xiang",
+      "Y Deng",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Wespeaker: A research and production oriented speaker embedding learning toolkit”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:z_wVstp3MssC"
+  },
+  {
+    "title": "Margin matters: Towards more discriminative deep neural network embeddings for speaker recognition",
+    "authors": [
+      "X Xiang",
+      "S Wang",
+      "H Huang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Margin matters: Towards more discriminative deep neural network embeddings for speaker recognition”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "2019 Asia-Pacific Signal and Information Processing Association Annual …, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:bEWYMUwI8FkC"
+  },
+  {
+    "title": "Angular Softmax for Short-Duration Text-independent Speaker Verification.",
+    "authors": [
+      "Z Huang*",
+      "S Wang*",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Angular Softmax for Short-Duration Text-independent Speaker Verification.”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Interspeech, 3623-3627, 2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+    "title": "Past review, current progress, and challenges ahead on the cocktail party problem",
+    "authors": [
+      "Y Qian",
+      "C Weng",
+      "X Chang",
+      "S Wang",
+      "D Yu"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Past review, current progress, and challenges ahead on the cocktail party problem”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "Frontiers of Information Technology & Electronic Engineering 19, 40-63, 2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "title": "Audio-Visual Deep Neural Network for Robust Person Verification",
+    "authors": [
+      "Y Qian",
+      "Z Chen",
+      "S Wang"
+    ],
+    "research_direction": "多模态语音与情感计算",
+    "summary": "该工作围绕“Audio-Visual Deep Neural Network for Robust Person Verification”，属于多模态语音与情感计算方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 1079-1092, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:WqliGbK-hY8C"
+  },
+  {
+    "title": "Bayesian HMM Based x-Vector Clustering for Speaker Diarization",
+    "authors": [
+      "M Diez",
+      "L Burget",
+      "S Wang",
+      "J Rohdin",
+      "J Černocký"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Bayesian HMM Based x-Vector Clustering for Speaker Diarization”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2019, 346-350, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:k_IJM867U9cC"
+  },
+  {
+    "title": "What does the speaker embedding encode?",
+    "authors": [
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“What does the speaker embedding encode?”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Interspeech 2017, 2017",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:mlAyqtXpCwEC"
+  },
+  {
+    "title": "On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction",
+    "authors": [
+      "S Wang",
+      "J Rohdin",
+      "L Burget",
+      "O Plchot",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“On the Usage of Phonetic Information for Text-independent Speaker Embedding Extraction”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2019, 1148-1152, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:4JMBOYKVnBMC"
+  },
+  {
+    "title": "But System for the Second Dihard Speech Diarization Challenge",
+    "authors": [
+      "F Landini",
+      "S Wang",
+      "M Diez",
+      "L Burget",
+      "P Matějka",
+      "K Žmolíková",
+      "L Mošner",
+      "..."
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“But System for the Second Dihard Speech Diarization Challenge”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:u9iWguZQMMsC"
+  },
+  {
+    "title": "Data Augmentation Using Deep Generative Models for Embedding Based Speaker Recognition",
+    "authors": [
+      "S Wang",
+      "Y Yang",
+      "Z Wu",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Data Augmentation Using Deep Generative Models for Embedding Based Speaker Recognition”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 28, 2598-2609, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:tkaPQYYpVKoC"
+  },
+  {
+    "title": "UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding",
+    "authors": [
+      "C Du",
+      "Y Guo",
+      "F Shen",
+      "Z Liu",
+      "Z Liang",
+      "X Chen",
+      "S Wang",
+      "H Zhang",
+      "K Yu"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "The 38th Annual AAAI Conference on Artificial Intelligence, 2023",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:j8SEvjWlNXcC"
+  },
+  {
+    "title": "Self-Supervised Learning Based Domain Adaptation for Robust Speaker Verification",
+    "authors": [
+      "Z Chen",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Self-Supervised Learning Based Domain Adaptation for Robust Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:N5tVd3kTz84C"
+  },
+  {
+    "title": "Voice activity detection in the wild: A data-driven approach using teacher-student training",
+    "authors": [
+      "H Dinkel",
+      "S Wang",
+      "X Xu",
+      "M Wu",
+      "K Yu"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Voice activity detection in the wild: A data-driven approach using teacher-student training”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 29, 1542-1555, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:ye4kPcJQO24C"
+  },
+  {
+    "title": "The SJTU Robust Anti-Spoofing System for the ASVspoof 2019 Challenge",
+    "authors": [
+      "Y Yang",
+      "H Wang",
+      "H Dinkel",
+      "Z Chen",
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“The SJTU Robust Anti-Spoofing System for the ASVspoof 2019 Challenge”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2019, 1038-1042, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:j3f4tGmQtD8C"
+  },
+  {
+    "title": "WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark",
+    "authors": [
+      "L Ma",
+      "D Guo",
+      "K Song",
+      "Y Jiang",
+      "S Wang",
+      "L Xue",
+      "W Xu",
+      "H Zhao",
+      "B Zhang",
+      "..."
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2406.05763, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:Z5m8FVwuT1cC"
+  },
+  {
+    "title": "Revisiting the Statistics Pooling Layer in Deep Speaker Embedding Learning",
+    "authors": [
+      "S Wang",
+      "Y Yang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Revisiting the Statistics Pooling Layer in Deep Speaker Embedding Learning”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "2021 12th International Symposium on Chinese Spoken Language Processing …, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:LjlpjdlvIbIC"
+  },
+  {
+    "title": "Data Augmentation using Variational Autoencoder for Embedding based Speaker Verification",
+    "authors": [
+      "Z Wu",
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Data Augmentation using Variational Autoencoder for Embedding based Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2019, 1163-1167, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:iH-uZ7U-co4C"
+  },
+  {
+    "title": "Investigation of Specaugment for Deep Speaker Embedding Learning",
+    "authors": [
+      "S Wang",
+      "J Rohdin",
+      "O Plchot",
+      "L Burget",
+      "K Yu",
+      "J Černocký"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Investigation of Specaugment for Deep Speaker Embedding Learning”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:738O_yMBCRsC"
+  },
+  {
+    "title": "DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion",
+    "authors": [
+      "Z Ning",
+      "H Chen",
+      "Y Jiang",
+      "C Hao",
+      "G Ma",
+      "S Wang",
+      "J Yao",
+      "L Xie"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2503.01183, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:FPJr55Dyh1AC"
+  },
+  {
+    "title": "Autoregressive Diffusion Transformer for Text-to-Speech Synthesis",
+    "authors": [
+      "Z Liu",
+      "S Wang*",
+      "S Inoue",
+      "Q Bai",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Autoregressive Diffusion Transformer for Text-to-Speech Synthesis”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2406.05551, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:ML0RJ9NH7IQC"
+  },
+  {
+    "title": "Knowledge distillation for small foot-print deep speaker embedding",
+    "authors": [
+      "S Wang",
+      "Y Yang",
+      "T Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Knowledge distillation for small foot-print deep speaker embedding”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:TQgYirikUcIC"
+  },
+  {
+    "title": "Discriminative Neural Embedding Learning for Short-Duration Text-Independent Speaker Verification",
+    "authors": [
+      "S Wang",
+      "Z Huang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Discriminative Neural Embedding Learning for Short-Duration Text-Independent Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 27 (11 …, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:RHpTSmoSYBkC"
+  },
+  {
+    "title": "Multi-modality matters: A performance leap on voxceleb",
+    "authors": [
+      "Z Chen",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Multi-modality matters: A performance leap on voxceleb”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2020, 2252-2256, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:dTyEYWd-f8wC"
+  },
+  {
+    "title": "Self-Knowledge Distillation via Feature Enhancement for Speaker Verification",
+    "authors": [
+      "B Liu",
+      "H Wang",
+      "Z Chen",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Self-Knowledge Distillation via Feature Enhancement for Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:hkOj_22Ku90C"
+  },
+  {
+    "title": "Adversarial Domain Adaptation for Speaker Verification Using Partially Shared Network.",
+    "authors": [
+      "Z Chen",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Adversarial Domain Adaptation for Speaker Verification Using Partially Shared Network.”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "INTERSPEECH, 3017-3021, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:JoZmwDi-zQgC"
+  },
+  {
+    "title": "Vall-t: Decoder-only generative transducer for robust and decoding-controllable text-to-speech",
+    "authors": [
+      "C Du",
+      "Y Guo",
+      "H Wang",
+      "Y Yang",
+      "Z Niu",
+      "S Wang",
+      "H Zhang",
+      "X Chen",
+      "K Yu"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Vall-t: Decoder-only generative transducer for robust and decoding-controllable text-to-speech”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:ipzZ9siozwsC"
+  },
+  {
+    "title": "Attention-based encoder-decoder end-to-end neural diarization with embedding enhancer",
+    "authors": [
+      "Z Chen",
+      "B Han",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Attention-based encoder-decoder end-to-end neural diarization with embedding enhancer”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 32, 1636-1649, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:VLnqNzywnoUC"
+  },
+  {
+    "title": "Advancing Speaker Embedding Learning: Wespeaker Toolkit for Research and Production",
+    "authors": [
+      "S Wang",
+      "Z Chen",
+      "B Han",
+      "H Wang",
+      "C Liang",
+      "B Zhang",
+      "X Xiang",
+      "W Ding",
+      "..."
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Advancing Speaker Embedding Learning: Wespeaker Toolkit for Research and Production”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Speech Communication, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:zLWjf1WUPmwC"
+  },
+  {
+    "title": "DF-ResNet: Boosting speaker verification performance with depth-first design",
+    "authors": [
+      "B Liu",
+      "Z Chen",
+      "S Wang",
+      "H Wang",
+      "B Han",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“DF-ResNet: Boosting speaker verification performance with depth-first design”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2022, 296-300, 2022",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:NJ774b8OgUMC"
+  },
+  {
+    "title": "Overview of speaker modeling and its applications: From the lens of deep speaker representation learning",
+    "authors": [
+      "S Wang",
+      "Z Chen",
+      "KA Lee",
+      "Y Qian",
+      "H Li"
+    ],
+    "research_direction": "工具、数据集与综述/挑战",
+    "summary": "该工作围绕“Overview of speaker modeling and its applications: From the lens of deep speaker representation learning”，属于工具、数据集与综述/挑战方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:q3CdL3IzO_QC"
+  },
+  {
+    "title": "A Survey on Speech Large Language Models for Understanding",
+    "authors": [
+      "J Peng",
+      "Y Wang",
+      "B Li",
+      "Y Guo",
+      "H Wang",
+      "Y Fang",
+      "Y Xi",
+      "H Li",
+      "X Li",
+      "K Zhang",
+      "..."
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“A Survey on Speech Large Language Models for Understanding”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2410.18908, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:bz8QjSJIRt4C"
+  },
+  {
+    "title": "Optimizing Bayesian HMM based x-vector clustering for the second DIHARD speech diarization challenge",
+    "authors": [
+      "M Diez",
+      "L Burget",
+      "F Landini",
+      "S Wang",
+      "H Černocký"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Optimizing Bayesian HMM based x-vector clustering for the second DIHARD speech diarization challenge”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:XiSMed-E-HIC"
+  },
+  {
+    "title": "Context-aware multimodal fusion for emotion recognition",
+    "authors": [
+      "J Li",
+      "S Wang",
+      "Y Chao",
+      "X Liu",
+      "H Meng"
+    ],
+    "research_direction": "多模态语音与情感计算",
+    "summary": "该工作围绕“Context-aware multimodal fusion for emotion recognition”，属于多模态语音与情感计算方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2022, 2013-2017, 2022",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:JQOojiI6XY0C"
+  },
+  {
+    "title": "Channel Invariant Speaker Embedding Learning with Joint Multi-Task and Adversarial Training",
+    "authors": [
+      "Z Chen",
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Channel Invariant Speaker Embedding Learning with Joint Multi-Task and Adversarial Training”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:Tiz5es2fbqcC"
+  },
+  {
+    "title": "Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training",
+    "authors": [
+      "H Wang",
+      "H Dinkel",
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Cross-Domain Replay Spoofing Attack Detection Using Domain Adversarial Training”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2019, 2938-2942, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:r0BpntZqJG4C"
+  },
+  {
+    "title": "Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor",
+    "authors": [
+      "Z Chen",
+      "B Han",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Attention-based Encoder-Decoder Network for End-to-End Neural Speaker Diarization with Target Speaker Attractor”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2023, 2023",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:-_dYPAW6P2MC"
+  },
+  {
+    "title": "AutoPrep: An Automatic Preprocessing Framework for In-The-Wild Speech Data",
+    "authors": [
+      "J Yu",
+      "H Chen",
+      "Y Bian",
+      "X Li",
+      "Y Luo",
+      "J Tian",
+      "M Liu",
+      "J Jiang",
+      "S Wang"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“AutoPrep: An Automatic Preprocessing Framework for In-The-Wild Speech Data”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:uc_IGeMz5qoC"
+  },
+  {
+    "title": "BUT System Description for DIHARD Speech Diarization Challenge 2019",
+    "authors": [
+      "F Landini",
+      "S Wang",
+      "M Diez",
+      "L Burget",
+      "P Matějka",
+      "K Žmolíková",
+      "L Mošner",
+      "..."
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“BUT System Description for DIHARD Speech Diarization Challenge 2019”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:1910.08847, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:isC4tDSrTZIC"
+  },
+  {
+    "title": "WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction",
+    "authors": [
+      "S Wang",
+      "K Zhang",
+      "S Lin",
+      "J Li",
+      "X Wang",
+      "M Ge",
+      "J Yu",
+      "Y Qian",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2409.15799, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:kuK5TVdYjLIC"
+  },
+  {
+    "title": "Hierarchical Emotion Prediction and Control in Text-to-Speech Synthesis",
+    "authors": [
+      "S Inoue",
+      "K Zhou",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Hierarchical Emotion Prediction and Control in Text-to-Speech Synthesis”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:BUYA1_V_uYcC"
+  },
+  {
+    "title": "Joint i-vector with end-to-end system for short-duration text-independent speaker verification",
+    "authors": [
+      "Z Huang",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Joint i-vector with end-to-end system for short-duration text-independent speaker verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "[DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:fEOibwPWpKIC)",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:Y0pCki6q_DkC"
+  },
+  {
+    "title": "Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge",
+    "authors": [
+      "J Alam",
+      "G Boulianne",
+      "L Burget",
+      "M Dahmane",
+      "M Diez",
+      "O Glembek",
+      "..."
+    ],
+    "research_direction": "工具、数据集与综述/挑战",
+    "summary": "该工作围绕“Analysis of ABC Submission to NIST SRE 2019 CMN and VAST Challenge”，属于工具、数据集与综述/挑战方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Odyssey 2020 The Speaker and Language Recognition Workshop, 289-295, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:D_sINldO8mEC"
+  },
+  {
+    "title": "SynAug: Synthesis-Based Data Augmentation for Text-Dependent Speaker Verification",
+    "authors": [
+      "C Du",
+      "B Han",
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“SynAug: Synthesis-Based Data Augmentation for Text-Dependent Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:VL0QpB8kHFEC"
+  },
+  {
+    "title": "Generative Adversarial Networks based X-vector Augmentation for Robust Probabilistic Linear Discriminant Analysis in Speaker Verification",
+    "authors": [
+      "Y Yang",
+      "S Wang",
+      "M Sun",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Generative Adversarial Networks based X-vector Augmentation for Robust Probabilistic Linear Discriminant Analysis in Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "[LeVo: High-Quality Song Generation with Multi-Preference Alignment](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:_axFR9aDTf0C)",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:5nxA0vEk-isC"
+  },
+  {
+    "title": "Multi-level speaker representation for target speaker extraction",
+    "authors": [
+      "K Zhang",
+      "J Li",
+      "S Wang",
+      "Y Wei",
+      "Y Wang",
+      "Y Wang",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Multi-level speaker representation for target speaker extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:XoXfffV-tXoC"
+  },
+  {
+    "title": "USED: Universal speaker extraction and diarization",
+    "authors": [
+      "J Ao",
+      "MS Yıldırım",
+      "R Tao",
+      "M Ge",
+      "S Wang",
+      "Y Qian",
+      "H Li"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“USED: Universal speaker extraction and diarization”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE Transactions on Audio, Speech and Language Processing 33, 96-110, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:XD-gHx7UXLsC"
+  },
+  {
+    "title": "Speech separation with pretrained frontend to minimize domain mismatch",
+    "authors": [
+      "W Wang",
+      "Z Pan",
+      "X Li",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Speech separation with pretrained frontend to minimize domain mismatch”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 32, 4184-4198, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:hMsQuOkrut0C"
+  },
+  {
+    "title": "Dual-Adversarial Domain Adaptation for Generalized Replay Attack Detection.",
+    "authors": [
+      "H Wang",
+      "H Dinkel",
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Dual-Adversarial Domain Adaptation for Generalized Replay Attack Detection.”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "INTERSPEECH, 1086-1090, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:9vf0nzSNQJEC"
+  },
+  {
+    "title": "Deep discriminant analysis for i-vector based robust speaker recognition",
+    "authors": [
+      "S Wang",
+      "Z Huang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Deep discriminant analysis for i-vector based robust speaker recognition”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "2018 11th International Symposium on Chinese Spoken Language Processing …, 2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:Tyk-4Ss8FVUC"
+  },
+  {
+    "title": "Focal KL-divergence based dilated convolutional neural networks for co-channel speaker identification",
+    "authors": [
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Focal KL-divergence based dilated convolutional neural networks for co-channel speaker identification”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+    "title": "Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings",
+    "authors": [
+      "Y Yang*",
+      "S Wang*",
+      "X Gong",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Text Adaptation for Speaker Verification with Speaker-Text Factorized Embeddings”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:WbkHhVStYXYC"
+  },
+  {
+    "title": "E1 tts: Simple and fast non-autoregressive tts",
+    "authors": [
+      "Z Liu",
+      "S Wang",
+      "P Zhu",
+      "M Bi",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“E1 tts: Simple and fast non-autoregressive tts”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:5qfkUJPXOUwC"
+  },
+  {
+    "title": "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction",
+    "authors": [
+      "J Li",
+      "K Zhang",
+      "S Wang",
+      "H Li",
+      "MW Mak",
+      "KA Lee"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“On the effectiveness of enrollment speech augmentation for Target Speaker Extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE Spoken Language Technology Workshop (SLT), 325-332, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:i2xiXl-TujoC"
+  },
+  {
+    "title": "Advances in Speech Separation: Techniques, Challenges, and Future Trends",
+    "authors": [
+      "K Li",
+      "G Chen",
+      "W Sang",
+      "Y Luo",
+      "Z Chen",
+      "S Wang",
+      "S He",
+      "ZQ Wang",
+      "A Li",
+      "..."
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Advances in Speech Separation: Techniques, Challenges, and Future Trends”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2508.10830, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:anf4URPfarAC"
+  },
+  {
+    "title": "Dualvc 2: Dynamic masked convolution for unified streaming and non-streaming voice conversion",
+    "authors": [
+      "Z Ning",
+      "Y Jiang",
+      "P Zhu",
+      "S Wang",
+      "J Yao",
+      "L Xie",
+      "M Bi"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Dualvc 2: Dynamic masked convolution for unified streaming and non-streaming voice conversion”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:0KyAp5RtaNEC"
+  },
+  {
+    "title": "Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-Talker Speech",
+    "authors": [
+      "J Li",
+      "R Tao",
+      "Z Pan",
+      "M Ge",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-Talker Speech”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:9Nmd_mFXekcC"
+  },
+  {
+    "title": "SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor",
+    "authors": [
+      "C Yang",
+      "S Wang",
+      "H Chen",
+      "J Yu",
+      "W Tan",
+      "R Gu",
+      "Y Xu",
+      "Y Zhou",
+      "H Zhu",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (24), 25597 …, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:M7yex6snE4oC"
+  },
+  {
+    "title": "SongBloom: Coherent Song Generation via Interleaved Autoregressive Sketching and Diffusion Refinement",
+    "authors": [
+      "C Yang",
+      "S Wang",
+      "H Chen",
+      "W Tan",
+      "J Yu",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“SongBloom: Coherent Song Generation via Interleaved Autoregressive Sketching and Diffusion Refinement”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2506.07634, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:rmuvC79q63oC"
+  },
+  {
+    "title": "Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models",
+    "authors": [
+      "Y Zhao",
+      "S Wang",
+      "G Sun",
+      "Z Chen",
+      "C Zhang",
+      "M Xu",
+      "TF Zheng"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2408.15585, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:EYYDruWGBe4C"
+  },
+  {
+    "title": "Robust Cross-Domain Speaker Verification with Multi-Level Domain Adapters",
+    "authors": [
+      "W Huang",
+      "B Han",
+      "S Wang",
+      "Z Chen",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Robust Cross-Domain Speaker Verification with Multi-Level Domain Adapters”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:epqYDVWIO7EC"
+  },
+  {
+    "title": "Adversarial Speaker Disentanglement Using Unannotated External Data for Self-supervised Representation Based Voice Conversion",
+    "authors": [
+      "X Zhao",
+      "S Wang",
+      "Y Chao",
+      "Z Wu",
+      "H Meng"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Adversarial Speaker Disentanglement Using Unannotated External Data for Self-supervised Representation Based Voice Conversion”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "2023 IEEE International Conference on Multimedia and Expo (ICME), 1691-1696, 2023",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:35r97b3x0nAC"
+  },
+  {
+    "title": "Unit selection synthesis based data augmentation for fixed phrase speaker verification",
+    "authors": [
+      "H Huang",
+      "X Xiang",
+      "F Zhao",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Unit selection synthesis based data augmentation for fixed phrase speaker verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:eq2jaN3J8jMC"
+  },
+  {
+    "title": "Fine-grained quantitative emotion editing for speech generation",
+    "authors": [
+      "S Inoue",
+      "K Zhou",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "多模态语音与情感计算",
+    "summary": "该工作围绕“Fine-grained quantitative emotion editing for speech generation”，属于多模态语音与情感计算方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 Asia Pacific Signal and Information Processing Association Annual …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:AvfA0Oy_GE0C"
+  },
+  {
+    "title": "On the Importance of Different Frequency Bins for Speaker Verification",
+    "authors": [
+      "A Deng",
+      "S Wang*",
+      "W Kang",
+      "F Deng"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“On the Importance of Different Frequency Bins for Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:2KloaMYe4IUC"
+  },
+  {
+    "title": "DiffRhythm+: Controllable and Flexible Full-Length Song Generation with Preference Optimization",
+    "authors": [
+      "H Chen",
+      "Y Jiang",
+      "G Ma",
+      "C Hao",
+      "S Wang",
+      "J Yao",
+      "Z Ning",
+      "M Meng",
+      "J Luan",
+      "..."
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“DiffRhythm+: Controllable and Flexible Full-Length Song Generation with Preference Optimization”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2507.12890, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:4fGpz3EwCPoC"
+  },
+  {
+    "title": "Hierarchical control of emotion rendering in speech synthesis",
+    "authors": [
+      "S Inoue",
+      "K Zhou",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "多模态语音与情感计算",
+    "summary": "该工作围绕“Hierarchical control of emotion rendering in speech synthesis”，属于多模态语音与情感计算方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE Transactions on Affective Computing, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:kz9GbA2Ns4gC"
+  },
+  {
+    "title": "MacST: Multi-Accent Speech Synthesis via Text Transliteration for Accent Conversion",
+    "authors": [
+      "S Inoue",
+      "S Wang",
+      "W Wang",
+      "P Zhu",
+      "M Bi",
+      "H Li"
+    ],
+    "research_direction": "鲁棒语音处理与口音建模",
+    "summary": "该工作围绕“MacST: Multi-Accent Speech Synthesis via Text Transliteration for Accent Conversion”，属于鲁棒语音处理与口音建模方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:ruyezt5ZtCIC"
+  },
+  {
+    "title": "ExPO: Explainable phonetic trait-oriented network for speaker verification",
+    "authors": [
+      "Y Ma",
+      "S Wang",
+      "T Liu",
+      "H Li"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“ExPO: Explainable phonetic trait-oriented network for speaker verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE Signal Processing Letters 32, 731-735, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:WZBGuue-350C"
+  },
+  {
+    "title": "DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion",
+    "authors": [
+      "Z Ning",
+      "S Wang",
+      "P Zhu",
+      "Z Wang",
+      "J Yao",
+      "L Xie",
+      "M Bi"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2406.07846, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:4MWp96NkSFoC"
+  },
+  {
+    "title": "Attention-Constrained Inference For Robust Decoder-Only Text-to-Speech",
+    "authors": [
+      "H Wang",
+      "C Du",
+      "Y Guo",
+      "S Wang",
+      "X Chen",
+      "K Yu"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Attention-Constrained Inference For Robust Decoder-Only Text-to-Speech”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE Spoken Language Technology Workshop (SLT), 630-637, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:PoWvk5oyLR8C"
+  },
+  {
+    "title": "Disentangling The Prosody And Semantic Information With Pre-Trained Model For In-Context Learning Based Zero-Shot Voice Conversion",
+    "authors": [
+      "Z Chen",
+      "S Wang",
+      "M Zhang",
+      "X Liu",
+      "J Yamagishi",
+      "Y Qian"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Disentangling The Prosody And Semantic Information With Pre-Trained Model For In-Context Learning Based Zero-Shot Voice Conversion”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE Spoken Language Technology Workshop (SLT), 698-704, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:KUbvn5osdkgC"
+  },
+  {
+    "title": "The ISCSLP 2024 Conversational Voice Clone (CoVoC) Challenge: Tasks, Results and Findings",
+    "authors": [
+      "K Xia",
+      "D Guo",
+      "J Yao",
+      "L Xue",
+      "H Li",
+      "S Wang",
+      "Z Guo",
+      "L Xie",
+      "Q Zhang",
+      "L Luo",
+      "..."
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“The ISCSLP 2024 Conversational Voice Clone (CoVoC) Challenge: Tasks, Results and Findings”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:LI9QrySNdTsC"
+  },
+  {
+    "title": "vec2wav 2.0: Advancing Voice Conversion via Discrete Token Vocoders",
+    "authors": [
+      "Y Guo",
+      "Z Li",
+      "J Li",
+      "C Du",
+      "H Wang",
+      "S Wang",
+      "X Chen",
+      "K Yu"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“vec2wav 2.0: Advancing Voice Conversion via Discrete Token Vocoders”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2409.01995, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:g3aElNc5_aQC"
+  },
+  {
+    "title": "WenetSpeech-Chuan: A Large-Scale Sichuanese Corpus with Rich Annotation for Dialectal Speech Processing",
+    "authors": [
+      "Y Dai",
+      "Z Zhang",
+      "S Wang",
+      "L Li",
+      "Z Guo",
+      "T Zuo",
+      "S Wang",
+      "H Xue",
+      "C Wang",
+      "..."
+    ],
+    "research_direction": "工具、数据集与综述/挑战",
+    "summary": "该工作围绕“WenetSpeech-Chuan: A Large-Scale Sichuanese Corpus with Rich Annotation for Dialectal Speech Processing”，属于工具、数据集与综述/挑战方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2509.18004, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:umqufdRvDiIC"
+  },
+  {
+    "title": "Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods",
+    "authors": [
+      "B Mu",
+      "P Guo",
+      "Z Sun",
+      "S Wang",
+      "H Liu",
+      "M Shao",
+      "L Xie",
+      "ES Chng",
+      "L Xiao",
+      "..."
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“Summary on The Multilingual Conversational Speech Language Model Challenge: Datasets, Tasks, Baselines, and Methods”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2509.13785, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:fFSKOagxvKUC"
+  },
+  {
+    "title": "Momuse: Momentum multi-modal target speaker extraction for real-time scenarios with impaired visual cues",
+    "authors": [
+      "J Li",
+      "K Zhang",
+      "S Wang",
+      "KA Lee",
+      "MW Mak",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Momuse: Momentum multi-modal target speaker extraction for real-time scenarios with impaired visual cues”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "2025 IEEE International Conference on Multimedia and Expo (ICME), 1-6, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:k8Z6L05lTy4C"
+  },
+  {
+    "title": "Flow-TSVAD: Target-Speaker Voice Activity Detection via Latent Flow Matching for Speaker Diarization",
+    "authors": [
+      "Z Chen",
+      "B Han",
+      "S Wang",
+      "Y Jiang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Flow-TSVAD: Target-Speaker Voice Activity Detection via Latent Flow Matching for Speaker Diarization”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and …, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:edDO8Oi4QzsC"
+  },
+  {
+    "title": "Enhancing Speaker Extraction Through Rectifying Target Confusion",
+    "authors": [
+      "J Wang",
+      "S Wang",
+      "J Li",
+      "K Zhang",
+      "Y Qian",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Enhancing Speaker Extraction Through Rectifying Target Confusion”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE Spoken Language Technology Workshop (SLT), 349-356, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:-FonjvnnhkoC"
+  },
+  {
+    "title": "Speaker embedding augmentation with noise distribution matching",
+    "authors": [
+      "X Gong",
+      "Z Chen",
+      "Y Yang",
+      "S Wang",
+      "L Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Speaker embedding augmentation with noise distribution matching”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "2021 12th International Symposium on Chinese Spoken Language Processing …, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:5awf1xo2G04C"
+  },
+  {
+    "title": "Non-Parallel Any-to-Many Voice Conversion by Replacing Speaker Statistics",
+    "authors": [
+      "Y Liu",
+      "C Yu",
+      "S Wang",
+      "Z Yang",
+      "C Yang",
+      "W Zhang"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Non-Parallel Any-to-Many Voice Conversion by Replacing Speaker Statistics”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2021, 1369-1373, 2021",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:ZuybSZzF8UAC"
+  },
+  {
+    "title": "Abc nist sre 2019 cts system description",
+    "authors": [
+      "J Alam",
+      "G Boulianne",
+      "O Glembek",
+      "AD Lozano",
+      "P Matejka",
+      "P Mizera",
+      "..."
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Abc nist sre 2019 cts system description”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proceedings of NIST, 1-6, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:OU6Ihb5iCvQC"
+  },
+  {
+    "title": "MSU-Bench: Towards Understanding the Conversational Multi-talker Scenarios",
+    "authors": [
+      "S Wang",
+      "Z Sun",
+      "Z Lin",
+      "C Wang",
+      "Z Pan",
+      "L Xie"
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“MSU-Bench: Towards Understanding the Conversational Multi-talker Scenarios”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2508.08155, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:LO7wyVUgiFcC"
+  },
+  {
+    "title": "AV-TSE: Context and Confidence-aware Audio Visual Target Speaker Extraction",
+    "authors": [
+      "W Wu",
+      "X Chen",
+      "S Wang",
+      "J Wang",
+      "L Meng",
+      "X Wu",
+      "H Meng",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“AV-TSE: Context and Confidence-aware Audio Visual Target Speaker Extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE Journal of Selected Topics in Signal Processing, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:86PQX7AUzd4C"
+  },
+  {
+    "title": "Drop the beat! freestyler for accompaniment conditioned rapping voice generation",
+    "authors": [
+      "Z Ning",
+      "S Wang",
+      "Y Jiang",
+      "J Yao",
+      "L He",
+      "S Pan",
+      "J Ding",
+      "L Xie"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Drop the beat! freestyler for accompaniment conditioned rapping voice generation”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proceedings of the AAAI Conference on Artificial Intelligence 39 (23), 24966 …, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:vbGhcppDl1QC"
+  },
+  {
+    "title": "Diffusion-Based Method with TTS Guidance for Foreign Accent Conversion",
+    "authors": [
+      "Q Bai",
+      "S Wang",
+      "Z Liu",
+      "M Zhang",
+      "W Rao",
+      "Y Wang",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Diffusion-Based Method with TTS Guidance for Foreign Accent Conversion”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:oNZyr7d5Mn4C"
+  },
+  {
+    "title": "Covariance based deep feature for text-dependent speaker verification",
+    "authors": [
+      "S Wang",
+      "H Dinkel",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Covariance based deep feature for text-dependent speaker verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "International Conference on Intelligent Science and Big Data Engineering …, 2018",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+    "title": "Integrating Online i-vector into GMM-UBM for Text-dependent Speaker Verification",
+    "authors": [
+      "X Jiang",
+      "S Wang",
+      "X Xiang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Integrating Online i-vector into GMM-UBM for Text-dependent Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "2017 Asia-Pacific Signal and Information Processing Association Annual …, 2017",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:IjCSPb-OGe4C"
+  },
+  {
+    "title": "HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing",
+    "authors": [
+      "X Xu",
+      "Y Ren",
+      "L Liu",
+      "W Wu",
+      "B Li",
+      "C Lu",
+      "S Wang",
+      "C Zhang"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2602.04535, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:DJbcl8HfkQkC"
+  },
+  {
+    "title": "SenSE: Semantic-Aware High-Fidelity Universal Speech Enhancement",
+    "authors": [
+      "X Li",
+      "H Xie",
+      "Z Wang",
+      "Z Zhang",
+      "L Xiao",
+      "S Wang",
+      "L Xie"
+    ],
+    "research_direction": "鲁棒语音处理与口音建模",
+    "summary": "该工作围绕“SenSE: Semantic-Aware High-Fidelity Universal Speech Enhancement”，属于鲁棒语音处理与口音建模方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2509.24708, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:HeT0ZceujKMC"
+  },
+  {
+    "title": "M-Vec: Matryoshka Speaker Embeddings with Flexible Dimensions",
+    "authors": [
+      "S Wang",
+      "P Zhu",
+      "H Li"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“M-Vec: Matryoshka Speaker Embeddings with Flexible Dimensions”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Social Robotics: 16th International Conference, ICSR+ InnoBiz 2024, Shenzhen …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:foquWX3nUaYC"
+  },
+  {
+    "title": "On the Effectiveness of Acoustic BPE in Decoder-Only TTS",
+    "authors": [
+      "B Li",
+      "F Shen",
+      "Y Guo",
+      "S Wang",
+      "X Chen",
+      "K Yu"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“On the Effectiveness of Acoustic BPE in Decoder-Only TTS”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2407.03892, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:ILKRHgRFtOwC"
+  },
+  {
+    "title": "Leveraging in-the-wild Data for Effective Self-supervised Pretraining in Speaker Recognition",
+    "authors": [
+      "S Wang",
+      "Q Bai",
+      "Q Liu",
+      "J Yu",
+      "Z Chen",
+      "B Han",
+      "Y Qian",
+      "H Li"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Leveraging in-the-wild Data for Effective Self-supervised Pretraining in Speaker Recognition”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:yB1At4FlUx8C"
+  },
+  {
+    "title": "End-to-End Speaker-Dependent Voice Activity Detection",
+    "authors": [
+      "Y Chen",
+      "S Wang",
+      "Y Qian",
+      "K Yu"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“End-to-End Speaker-Dependent Voice Activity Detection”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "NCMMSC 2019, Xining, Qinghai, China, 2019",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:vRqMK49ujn8C"
+  },
+  {
+    "title": "WeDefense: A Toolkit to Defend Against Fake Audio",
+    "authors": [
+      "L Zhang",
+      "J Rohdin",
+      "X Wang",
+      "J Peng",
+      "T Liu",
+      "Y Zhang",
+      "HT Luong",
+      "S Wang",
+      "..."
+    ],
+    "research_direction": "工具、数据集与综述/挑战",
+    "summary": "该工作围绕“WeDefense: A Toolkit to Defend Against Fake Audio”，属于工具、数据集与综述/挑战方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2601.15240, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:9c2xU6iGI7YC"
+  },
+  {
+    "title": "The icassp 2026 humdial challenge: Benchmarking human-like spoken dialogue systems in the llm era",
+    "authors": [
+      "Z Zhao",
+      "S Wang",
+      "G Li",
+      "H Xue",
+      "C Wang",
+      "S Wang",
+      "L Xiao",
+      "Z Zhang",
+      "H Bu",
+      "..."
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“The icassp 2026 humdial challenge: Benchmarking human-like spoken dialogue systems in the llm era”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2601.05564, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:KbBQZpvPDL4C"
+  },
+  {
+    "title": "PhiNet: Speaker Verification With Phonetic Interpretability",
+    "authors": [
+      "Y Ma",
+      "S Wang",
+      "T Liu",
+      "H Li"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“PhiNet: Speaker Verification With Phonetic Interpretability”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE Transactions on Audio, Speech and Language Processing 34, 246-258, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&pagesize=100&citation_for_view=vW1ZaucAAAAJ:dBIO0h50nwkC"
+  },
+  {
+    "title": "MOSA: Mixtures of Simple Adapters Outperform Monolithic Approaches in LLM-based Multilingual ASR",
+    "authors": [
+      "J Li",
+      "J Peng",
+      "Y Fang",
+      "S Wang",
+      "K Yu"
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“MOSA: Mixtures of Simple Adapters Outperform Monolithic Approaches in LLM-based Multilingual ASR”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2508.18998, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:4hFrxpcac9AC"
+  },
+  {
+    "title": "Accent Normalization Using Self-Supervised Discrete Tokens with Non-Parallel Data",
+    "authors": [
+      "Q Bai",
+      "S Inoue",
+      "S Wang",
+      "Z Jiang",
+      "Y Wang",
+      "H Li"
+    ],
+    "research_direction": "鲁棒语音处理与口音建模",
+    "summary": "该工作围绕“Accent Normalization Using Self-Supervised Discrete Tokens with Non-Parallel Data”，属于鲁棒语音处理与口音建模方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2507.17735, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:_FM0Bhl9EiAC"
+  },
+  {
+    "title": "MeMo: Attentional Momentum for Real-time Audio-visual Speaker Extraction under Impaired Visual Conditions",
+    "authors": [
+      "J Li",
+      "W Wu",
+      "S Wang",
+      "Z Pan",
+      "KA Lee",
+      "H Meng",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“MeMo: Attentional Momentum for Real-time Audio-visual Speaker Extraction under Impaired Visual Conditions”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2507.15294, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:GtLg2Ama23sC"
+  },
+  {
+    "title": "Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction",
+    "authors": [
+      "W Wu",
+      "S Wang",
+      "X Wu",
+      "H Meng",
+      "H Li"
+    ],
+    "research_direction": "多模态语音与情感计算",
+    "summary": "该工作围绕“Incorporating Linguistic Constraints from External Knowledge Source for Audio-Visual Target Speech Extraction”，属于多模态语音与情感计算方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2506.09792, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:YohjEiUPhakC"
+  },
+  {
+    "title": "TVC-MusicGen: Time-Varying Structure Control for Background Music Generation via Self-Supervised Training",
+    "authors": [
+      "C Yang",
+      "H Chen",
+      "S Wang",
+      "H Zhu",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“TVC-MusicGen: Time-Varying Structure Control for Background Music Generation via Self-Supervised Training”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2025, 1238-1242, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:0izLItjtcgwC"
+  },
+  {
+    "title": "BUT+ omilia system description voxceleb speaker recognition challenge 2020",
+    "authors": [
+      "N Brummer",
+      "L Burget",
+      "O Glembek",
+      "P Matejka",
+      "L Mošner",
+      "O Novotnỳ",
+      "..."
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“BUT+ omilia system description voxceleb speaker recognition challenge 2020”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. VoxSRC Workshop, 2020",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:BwyfMAYsbu0C"
+  },
+  {
+    "title": "AHAMask: Reliable task specification for large audio language models without instructions",
+    "authors": [
+      "Y Guo",
+      "B Li",
+      "H Wang",
+      "Z Li",
+      "S Wang",
+      "X Chen",
+      "K Yu"
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“AHAMask: Reliable task specification for large audio language models without instructions”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (26), 21513 …, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:XvxMoLDsR5gC"
+  },
+  {
+    "title": "CosyAccent: Duration-Controllable Accent Normalization Using Source-Synthesis Training Data",
+    "authors": [
+      "Q Bai",
+      "S Shi",
+      "S Wang",
+      "Y Ju",
+      "Y Wang",
+      "H Li"
+    ],
+    "research_direction": "鲁棒语音处理与口音建模",
+    "summary": "该工作围绕“CosyAccent: Duration-Controllable Accent Normalization Using Source-Synthesis Training Data”，属于鲁棒语音处理与口音建模方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2602.19166, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:3htObqc8RwsC"
+  },
+  {
+    "title": "MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model",
+    "authors": [
+      "Y Tao",
+      "W Wu",
+      "C Zhang",
+      "M Wu",
+      "S Wang",
+      "X Xu"
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2512.20339, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:QYdC8u9Cj1oC"
+  },
+  {
+    "title": "TPEech: Target Speaker Extraction and Noise Suppression With Historical Dialogue Text Cues",
+    "authors": [
+      "Z Jiang",
+      "X Chen",
+      "S Wang",
+      "X Qian",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“TPEech: Target Speaker Extraction and Noise Suppression With Historical Dialogue Text Cues”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE Signal Processing Letters 33, 351-355, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:cWzG1nlazyYC"
+  },
+  {
+    "title": "ELEGANCE: Efficient LLM Guidance for Audio-Visual Target Speech Extraction",
+    "authors": [
+      "W Wu",
+      "S Wang*",
+      "X Wu",
+      "H Meng",
+      "H Li"
+    ],
+    "research_direction": "多模态语音与情感计算",
+    "summary": "该工作围绕“ELEGANCE: Efficient LLM Guidance for Audio-Visual Target Speech Extraction”，属于多模态语音与情感计算方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2511.06288, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:_5tno0g5mFcC"
+  },
+  {
+    "title": "Can Audio Large Language Models Verify Speaker Identity?",
+    "authors": [
+      "Y Ren",
+      "X Xu",
+      "B Li",
+      "S Wang",
+      "C Zhang"
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“Can Audio Large Language Models Verify Speaker Identity?”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2509.19755, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:6ZxmRoH8BuwC"
+  },
+  {
+    "title": "WEST: LLM based Speech Toolkit for Speech Understanding, Generation, and Interaction",
+    "authors": [
+      "B Zhang",
+      "C Liang",
+      "S Wang",
+      "X Geng",
+      "Z Guo",
+      "H Li",
+      "H Yin",
+      "X Yang",
+      "P Zhang",
+      "..."
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“WEST: LLM based Speech Toolkit for Speech Understanding, Generation, and Interaction”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2509.19902, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:DUooU5lO8OsC"
+  },
+  {
+    "title": "REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers",
+    "authors": [
+      "Y Jiang",
+      "Z Ning",
+      "S Wang",
+      "C Wang",
+      "M Bi",
+      "P Zhu",
+      "Z Fu",
+      "L Xie"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2508.04996, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:FAceZFleit8C"
+  },
+  {
+    "title": "Traceable TTS: Toward Watermark-Free TTS with Strong Traceability",
+    "authors": [
+      "Y Zhao",
+      "Y Xiao",
+      "Y Chen",
+      "Z Niu",
+      "S Wang",
+      "K Yu",
+      "X Chen"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Traceable TTS: Toward Watermark-Free TTS with Strong Traceability”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2507.03887, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:WJVC3Jt7v1AC"
+  },
+  {
+    "title": "Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification",
+    "authors": [
+      "Y Zhao",
+      "S Wang",
+      "G Sun",
+      "Z Chen",
+      "C Zhang",
+      "M Xu",
+      "TF Zheng"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2506.14226, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:IRz6iEL74y4C"
+  },
+  {
+    "title": "SpeechRefiner: Towards Perceptual Quality Refinement for Front-End Algorithms",
+    "authors": [
+      "S Li",
+      "S Wang",
+      "Z Liu",
+      "Z Jiang",
+      "Y Wang",
+      "H Li"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“SpeechRefiner: Towards Perceptual Quality Refinement for Front-End Algorithms”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2506.13709, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:Ri6SYOTghG4C"
+  },
+  {
+    "title": "PersonaTAB: Predicting Personality Traits using Textual, Acoustic, and Behavioral Cues in Fully-Duplex Speech Dialogs",
+    "authors": [
+      "S Inoue",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“PersonaTAB: Predicting Personality Traits using Textual, Acoustic, and Behavioral Cues in Fully-Duplex Speech Dialogs”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2505.14356, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:PVjk1bu6vJQC"
+  },
+  {
+    "title": "REAL-T: Real Conversational Mixtures for Target Speaker Extraction",
+    "authors": [
+      "S Li",
+      "S Wang",
+      "J Han",
+      "K Zhang",
+      "W Wang",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“REAL-T: Real Conversational Mixtures for Target Speaker Extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2025, 1923-1927, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:HtEfBTGE9r8C"
+  },
+  {
+    "title": "Hierarchical Multi-Path and Multi-Model Selection For Fake Speech Detection",
+    "authors": [
+      "C Feng",
+      "Y Zhao",
+      "G Sun",
+      "Z Chen",
+      "S Wang",
+      "C Zhang",
+      "M Xu",
+      "TF Zheng"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Hierarchical Multi-Path and Multi-Model Selection For Fake Speech Detection”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE Spoken Language Technology Workshop (SLT), 983-990, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:e_rmSamDkqQC"
+  },
+  {
+    "title": "TASU2: Controllable CTC Simulation for Alignment and Low-Resource Adaptation of Speech LLMs",
+    "authors": [
+      "J Peng",
+      "C Wang",
+      "Y Yang",
+      "L Qian",
+      "J Li",
+      "Y Xi",
+      "S Wang",
+      "K Yu"
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“TASU2: Controllable CTC Simulation for Alignment and Low-Resource Adaptation of Speech LLMs”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2604.08384, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:LhH-TYMQEocC"
+  },
+  {
+    "title": "EvoTSE: Evolving Enrollment for Target Speaker Extraction",
+    "authors": [
+      "Z Liu",
+      "Z Wang",
+      "X Li",
+      "Y Zhu",
+      "S Wang",
+      "L Xiao",
+      "L Xie"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“EvoTSE: Evolving Enrollment for Target Speaker Extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2604.06810, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:yqoGN6RLRZoC"
+  },
+  {
+    "title": "Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR",
+    "authors": [
+      "Z Lin",
+      "S Wang",
+      "Z Sun",
+      "P Xie",
+      "C Xie",
+      "J Liu",
+      "Q Zhang",
+      "L Xie"
+    ],
+    "research_direction": "语音大模型与语音理解",
+    "summary": "该工作围绕“Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR”，属于语音大模型与语音理解方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2604.03074, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:r_AWSJRzSzQC"
+  },
+  {
+    "title": "Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation",
+    "authors": [
+      "S Shen",
+      "D Wu",
+      "X Song",
+      "D Zhou",
+      "L Xue",
+      "M Meng",
+      "J Luan",
+      "S Wang"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2603.24430, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:OcBU2YAGkTUC"
+  },
+  {
+    "title": "Borderless Long Speech Synthesis",
+    "authors": [
+      "X Song",
+      "D Wu",
+      "D Zhou",
+      "P Cheng",
+      "H Ding",
+      "Y He",
+      "J Wang",
+      "S Shen",
+      "S Lv",
+      "..."
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“Borderless Long Speech Synthesis”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2603.19798, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:ODE9OILHJdcC"
+  },
+  {
+    "title": "Controllable Accent Normalization via Discrete Diffusion",
+    "authors": [
+      "Q Bai",
+      "Y Du",
+      "T Ko",
+      "S Wang",
+      "Y Wang",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Controllable Accent Normalization via Discrete Diffusion”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2603.14275, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:yFnVuubrUp4C"
+  },
+  {
+    "title": "USE: A Unified Model for Universal Sound Separation and Extraction",
+    "authors": [
+      "H Wang",
+      "C Li",
+      "X Zhou",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“USE: A Unified Model for Universal Sound Separation and Extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (39), 33476 …, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:4vMrXwiscB8C"
+  },
+  {
+    "title": "AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow",
+    "authors": [
+      "D Li",
+      "S Zhang",
+      "Z Qian",
+      "W Wu",
+      "S Wang",
+      "Q Hong",
+      "L Li",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2603.10701, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:bKqednn6t2AC"
+  },
+  {
+    "title": "G-STAR: End-to-End Global Speaker-Tracking Attributed Recognition",
+    "authors": [
+      "J Peng",
+      "Z Chen",
+      "H Li",
+      "Y Wang",
+      "D Ma",
+      "M Li",
+      "Y Du",
+      "D Xu",
+      "K Yu",
+      "S Wang"
+    ],
+    "research_direction": "语音信号处理与表示学习",
+    "summary": "该工作围绕“G-STAR: End-to-End Global Speaker-Tracking Attributed Recognition”，属于语音信号处理与表示学习方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2603.10468, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:HtS1dXgVpQUC"
+  },
+  {
+    "title": "Detect, Attend and Extract: Keyword Guided Target Speaker Extraction",
+    "authors": [
+      "H Li",
+      "Y Xi",
+      "Y Jiang",
+      "S Wang*",
+      "K Knill",
+      "M Gales",
+      "H Li",
+      "K Yu*"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Detect, Attend and Extract: Keyword Guided Target Speaker Extraction”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2602.07977, 2026",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:mNrWkgRL2YcC"
+  },
+  {
+    "title": "Causal Self-Supervised Pretrained Frontend With Predictive Patterns for Speech Separation",
+    "authors": [
+      "W Wang",
+      "Z Pan",
+      "X Li",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Causal Self-Supervised Pretrained Frontend With Predictive Patterns for Speech Separation”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "IEEE Transactions on Audio, Speech and Language Processing 34, 311-323, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:IUKN3-7HHlwC"
+  },
+  {
+    "title": "Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS",
+    "authors": [
+      "H Li",
+      "M Han",
+      "Y Xi",
+      "D Wang",
+      "H Wang",
+      "H Shi",
+      "B Li",
+      "J Song",
+      "B Zheng",
+      "S Wang",
+      "..."
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2511.09995, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:2VqYfGB8ITEC"
+  },
+  {
+    "title": "Direct Preference Optimization for Speech Autoregressive Diffusion Models",
+    "authors": [
+      "Z Liu",
+      "D Jia",
+      "X Wang",
+      "C Du",
+      "S Wang",
+      "Z Chen",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Direct Preference Optimization for Speech Autoregressive Diffusion Models”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2509.18928, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:sNmaIFBj_lkC"
+  },
+  {
+    "title": "Hybrid Pruning: In-Situ Compression of Self-Supervised Speech Models for Speaker Verification and Anti-Spoofing",
+    "authors": [
+      "J Peng",
+      "L Zhang",
+      "J Han",
+      "O Plchot",
+      "J Rohdin",
+      "T Stafylakis",
+      "S Wang",
+      "..."
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Hybrid Pruning: In-Situ Compression of Self-Supervised Speech Models for Speaker Verification and Anti-Spoofing”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2508.16232, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:a9-T7VOCCH8C"
+  },
+  {
+    "title": "Towards Hallucination-Free Music: A Reinforcement Learning Preference Optimization Framework for Reliable Song Generation",
+    "authors": [
+      "H Zhang",
+      "W Tan",
+      "G Li",
+      "Y Zhang",
+      "H Chen",
+      "S Lei",
+      "C Yang",
+      "Z Wu",
+      "S Wang",
+      "..."
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Towards Hallucination-Free Music: A Reinforcement Learning Preference Optimization Framework for Reliable Song Generation”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2508.05011, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:8d8msizDQcsC"
+  },
+  {
+    "title": "Multi-step Prediction and Control of Hierarchical Emotion Distribution in Text-to-speech Synthesis",
+    "authors": [
+      "S Inoue",
+      "K Zhou",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "语音合成与歌声生成",
+    "summary": "该工作围绕“Multi-step Prediction and Control of Hierarchical Emotion Distribution in Text-to-speech Synthesis”，属于语音合成与歌声生成方向，关注方法设计与实验验证。",
+    "venue_or_source": "APSIPA Transactions on Signal and Information Processing 14 (4), 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:9pM33mqn1YgC"
+  },
+  {
+    "title": "Causal Self-supervised Pretrained Frontend with Predictive Code for Speech Separation",
+    "authors": [
+      "W Wang",
+      "Z Pan",
+      "X Li",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Causal Self-supervised Pretrained Frontend with Predictive Code for Speech Separation”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2504.02302, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:hCrLmN-GePgC"
+  },
+  {
+    "title": "Context-Aware Two-Step Training Scheme for Domain Invariant Speech Separation",
+    "authors": [
+      "W Wang",
+      "Z Pan",
+      "J Lin",
+      "S Wang",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Context-Aware Two-Step Training Scheme for Domain Invariant Speech Separation”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2503.12589, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:0N-VGjzr574C"
+  },
+  {
+    "title": "Speaker Extraction with Verification of Present and Absent Target Speakers",
+    "authors": [
+      "K Zhang",
+      "M Borsdorf",
+      "T Liu",
+      "S Wang",
+      "Y Wei",
+      "H Li"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Speaker Extraction with Verification of Present and Absent Target Speakers”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "Journal of Shanghai Jiaotong University (Science), 1-6, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:HbR8gkJAVGIC"
+  },
+  {
+    "title": "M3L: A Multi-Modal and Multi-Lingual Depression Detection Framework",
+    "authors": [
+      "J You",
+      "S Wang",
+      "X Gong",
+      "X Wan"
+    ],
+    "research_direction": "多模态语音与情感计算",
+    "summary": "该工作围绕“M3L: A Multi-Modal and Multi-Lingual Depression Detection Framework”，属于多模态语音与情感计算方向，关注方法设计与实验验证。",
+    "venue_or_source": "Proc. Interspeech 2025, 5268-5272, 2025",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:NXb4pA-qfm4C"
+  },
+  {
+    "title": "Combining Self-Supervised Learning and Adversarial Training Based Domain Adaptation for Speaker Verification",
+    "authors": [
+      "Z Chen",
+      "S Wang",
+      "B Han",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Combining Self-Supervised Learning and Adversarial Training Based Domain Adaptation for Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:xtoqd-5pKcoC"
+  },
+  {
+    "title": "The X-Lance Technical Report for Interspeech 2024 Speech Processing using Discrete Speech Unit Challenge",
+    "authors": [
+      "Y Guo",
+      "C Wang",
+      "Y Yang",
+      "H Wang",
+      "Z Ma",
+      "C Du",
+      "S Wang",
+      "H Li",
+      "X Li",
+      "S Fan",
+      "..."
+    ],
+    "research_direction": "工具、数据集与综述/挑战",
+    "summary": "该工作围绕“The X-Lance Technical Report for Interspeech 2024 Speech Processing using Discrete Speech Unit Challenge”，属于工具、数据集与综述/挑战方向，关注方法设计与实验验证。",
+    "venue_or_source": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing …, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:vDijr-p_gm4C"
+  },
+  {
+    "title": "Prototype and Instance Contrastive Learning for Unsupervised Domain Adaptation in Speaker Verification",
+    "authors": [
+      "W Huang",
+      "B Han",
+      "Z Chen",
+      "S Wang",
+      "Y Qian"
+    ],
+    "research_direction": "说话人识别与验证",
+    "summary": "该工作围绕“Prototype and Instance Contrastive Learning for Unsupervised Domain Adaptation in Speaker Verification”，属于说话人识别与验证方向，关注方法设计与实验验证。",
+    "venue_or_source": "ISCSLP 2024 (Best Student Paper), 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:lmc2jWPfTJgC"
+  },
+  {
+    "title": "Flow-TSVAD: Target-Speaker Voice Activity Detection via Latent Flow Matching",
+    "authors": [
+      "Z Chen",
+      "B Han",
+      "S Wang",
+      "Y Jiang",
+      "Y Qian"
+    ],
+    "research_direction": "目标说话人提取与语音分离",
+    "summary": "该工作围绕“Flow-TSVAD: Target-Speaker Voice Activity Detection via Latent Flow Matching”，属于目标说话人提取与语音分离方向，关注方法设计与实验验证。",
+    "venue_or_source": "arXiv preprint arXiv:2409.04859, 2024",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vW1ZaucAAAAJ&cstart=100&pagesize=100&citation_for_view=vW1ZaucAAAAJ:SpbeaW3--B0C"
+  }
+]

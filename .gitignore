@@ -11,7 +11,4 @@ package.json
 package-lock.json
 yarn.lock
 node_modules
-<<<<<<< HEAD
-requirements
-=======
->>>>>>> d918d4afcce502f2ccbff1fea67cd340873e3154
+

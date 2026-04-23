@@ -112,7 +112,6 @@ nav > a:hover {
   color: var(--primary);
 }
 
-<<<<<<< HEAD
 nav > a.nav-active,
 nav > a[aria-current="page"] {
   border-radius: 999px;
@@ -124,8 +123,6 @@ nav > a[aria-current="page"] {
   text-underline-offset: 6px;
 }
 
-=======
->>>>>>> d918d4afcce502f2ccbff1fea67cd340873e3154
 header:not([data-big]) {
   @media (max-width: $collapse) {
     justify-content: flex-end;

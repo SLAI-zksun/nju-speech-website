@@ -1,0 +1,131 @@
+{
+  "来源": "https://shuaiwang-nju.github.io/",
+  "成员列表": [
+    {
+      "姓名": "Haoyu Li",
+      "英文名称": "Haoyu Li",
+      "学生类别": "phd",
+      "入学时间": "2026 Fall",
+      "研究方向": "Speaker-Centered Understanding"
+    },
+    {
+      "姓名": "Ziyi Chen",
+      "英文名称": "Ziyi Chen",
+      "学生类别": "phd",
+      "入学时间": "2026 Fall",
+      "研究方向": "Speaker Diarization"
+    },
+    {
+      "姓名": "Qituan Shangguan",
+      "英文名称": "Qituan Shangguan",
+      "学生类别": "master",
+      "入学时间": "2026 Fall",
+      "研究方向": "Speaker Recognition"
+    },
+    {
+      "姓名": "Ye Tao",
+      "英文名称": "Ye Tao",
+      "学生类别": "master",
+      "入学时间": "2026 Fall",
+      "研究方向": "Audio-Visual Speech and Audio Generation"
+    },
+    {
+      "姓名": "Shengfan Shen",
+      "英文名称": "Shengfan Shen",
+      "学生类别": "master",
+      "入学时间": "2026 Fall",
+      "研究方向": "Speech Synthesis"
+    },
+    {
+      "姓名": "Zihan Qian",
+      "英文名称": "Zihan Qian",
+      "学生类别": "undergraduate",
+      "入学时间": null,
+      "研究方向": null
+    },
+    {
+      "姓名": "Sixiang Lyu",
+      "英文名称": "Sixiang Lyu",
+      "学生类别": "phd",
+      "入学时间": "2026 Fall",
+      "研究方向": "Target Speaker Processing, Speech Synthesis"
+    },
+    {
+      "姓名": "Duojia Li",
+      "英文名称": "Duojia Li",
+      "学生类别": "phd",
+      "入学时间": "2025 Fall",
+      "研究方向": "Target Speaker Processing"
+    },
+    {
+      "姓名": "Shuhan Zhang",
+      "英文名称": "Shuhan Zhang",
+      "学生类别": "phd",
+      "入学时间": "2025 Fall",
+      "研究方向": "Audio-Visual Target Speaker Processing"
+    },
+    {
+      "姓名": "Chenyu Yang",
+      "英文名称": "Chenyu Yang",
+      "学生类别": "phd",
+      "入学时间": "2024 Fall",
+      "研究方向": "Music Generation"
+    },
+    {
+      "姓名": "Zhijun Liu",
+      "英文名称": "Zhijun Liu",
+      "学生类别": "phd",
+      "入学时间": "2023 Fall",
+      "研究方向": "Speech Synthesis"
+    },
+    {
+      "姓名": "Qibing Bai",
+      "英文名称": "Qibing Bai",
+      "学生类别": "phd",
+      "入学时间": "2023 Fall",
+      "研究方向": "Accent Conversion"
+    },
+    {
+      "姓名": "Sho Inoue",
+      "英文名称": "Sho Inoue",
+      "学生类别": "phd",
+      "入学时间": "2022 Fall",
+      "研究方向": "Speech Synthesis"
+    },
+    {
+      "姓名": "Wenxuan Wu",
+      "英文名称": "Wenxuan Wu",
+      "学生类别": "phd",
+      "入学时间": "2022 Fall",
+      "研究方向": "Target Speech Extraction"
+    },
+    {
+      "姓名": "Wupeng Wang",
+      "英文名称": "Wupeng Wang",
+      "学生类别": "phd",
+      "入学时间": null,
+      "研究方向": "Speech Separation"
+    },
+    {
+      "姓名": "Yi Ma",
+      "英文名称": "Yi Ma",
+      "学生类别": "phd",
+      "入学时间": null,
+      "研究方向": "Speaker Recognition"
+    },
+    {
+      "姓名": "Junjie Li",
+      "英文名称": "Junjie Li",
+      "学生类别": "phd",
+      "入学时间": null,
+      "研究方向": null
+    },
+    {
+      "姓名": "Shaole Li",
+      "英文名称": "Shaole Li",
+      "学生类别": "phd",
+      "入学时间": null,
+      "研究方向": null
+    }
+  ]
+}

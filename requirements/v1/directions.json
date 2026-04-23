@@ -1,0 +1,45 @@
+{
+  "source": {
+    "homepage": "https://shuaiwang-nju.github.io/",
+    "publications_file": "/Users/sunzhaokai/nju-speech-website-main/requirements/v1/publications.json"
+  },
+  "total_directions": 6,
+  "directions": [
+    {
+      "id": "speaker_modeling",
+      "name_zh": "说话人建模",
+      "name_en": "Speaker Modeling",
+      "description": "该方向聚焦说话人表征学习、说话人识别与验证、说话人分离/聚类等核心问题，强调在跨域、短时语音和复杂噪声条件下提升判别性与鲁棒性。整体目标是构建可迁移、可解释、可扩展的说话人建模方法，并服务于安全认证、身份分析和语音检索等场景。"
+    },
+    {
+      "id": "target_speaker_processing",
+      "name_zh": "目标说话人处理",
+      "name_en": "Target Speaker Processing",
+      "description": "该方向面向多人重叠和真实对话环境，研究目标说话人提取、目标说话人活动检测与相关分离技术。核心挑战是利用目标先验（如注册语音、视觉线索、文本上下文）在强干扰下稳定提取目标语音，从而支持会议转写、人机交互、助听增强等应用。"
+    },
+    {
+      "id": "speech_audio_music_understanding",
+      "name_zh": "语音、音频与音乐理解",
+      "name_en": "Speech, Audio, and Music Understanding",
+      "description": "该方向关注语音与音频内容的高层语义理解，包括多说话人场景理解、音频语言建模、多模态融合与情感/属性分析。研究重点是让模型在真实复杂场景中获得更强的上下文建模能力与任务泛化能力，为智能检索、对话理解与内容分析提供基础。"
+    },
+    {
+      "id": "speech_audio_music_generation",
+      "name_zh": "语音、音频与音乐生成",
+      "name_en": "Speech, Audio, and Music Generation",
+      "description": "该方向围绕语音合成、声音转换、可控生成和音乐生成展开，重点提升自然度、可控性、实时性与可定制能力。研究覆盖从声学建模到生成推理加速的完整链路，并关注个性化表达、风格迁移与工业可落地性。"
+    },
+    {
+      "id": "brain_inspired_speech_processing",
+      "name_zh": "类脑语音处理",
+      "name_en": "Brain-inspired Speech Processing",
+      "description": "该方向探索借鉴人类听觉与认知机制的语音建模方法，强调在有限监督、噪声干扰和复杂交互条件下的高效学习与稳健推理。目标是在模型结构、学习范式与推理机制上引入更符合人类处理规律的设计，推动语音系统向更强泛化与更高能效发展。"
+    },
+    {
+      "id": "end_to_end_speech_llm",
+      "name_zh": "端到端语音大模型",
+      "name_en": "End-to-End Speech Large Language Models",
+      "description": "该方向聚焦端到端语音大模型（Speech LLM）的训练与应用，连接语音理解、生成与交互能力。重点包括多任务统一建模、长上下文对话、多语言与跨模态协同，以及工具链和基准构建，目标是形成可扩展的通用语音智能底座。"
+    }
+  ]
+}
