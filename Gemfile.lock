@@ -175,7 +175,6 @@ PLATFORMS
 DEPENDENCIES
   html-proofer (~> 5.0)
   jekyll (~> 4.3)
-  public_suffix (>= 5.0, < 7)
   jekyll-feed
   jekyll-last-modified-at
   jekyll-redirect-from

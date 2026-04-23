@@ -1,8 +1,5 @@
 source "https://rubygems.org"
 
-# GitHub Actions / github-pages uses Ruby 3.1; public_suffix 7+ requires Ruby >= 3.2
-gem "public_suffix", ">= 5.0", "< 7"
-
 # jekyll
 gem "jekyll", "~> 4.3"
 gem "webrick", "~> 1.7"
