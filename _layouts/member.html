@@ -28,23 +28,22 @@ layout: default
   | array_filter
 %}
 
-{% capture search -%}
-  research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
-{%- endcapture %}
+{% assign member_research_href = "research/?search=" %}
+{% for alias in aliases %}
+  {% assign member_research_href = member_research_href | append: '"' | append: alias | append: '" ' %}
+{% endfor %}
 
 <p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
+  <a href="{{ member_research_href | strip | relative_url | uri_escape }}">
     Search for {{ page.name | default: page.title }}'s papers on the Research page
   </a>
 </p>
 
-{% capture search -%}
-  blog/?search={{ page.name }}
-{%- endcapture %}
+{% assign member_blog_href = "blog/?search=" | append: page.name %}
 
 <!--
 <p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
+  <a href="{{ member_blog_href | relative_url | uri_escape }}">
     See {{ page.name | default: page.title }}'s posts on the Blog page
   </a>
 </p>
