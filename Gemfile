@@ -14,4 +14,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-last-modified-at"
 end
+<<<<<<< HEAD
 gem 'logger'
+=======
+>>>>>>> d918d4afcce502f2ccbff1fea67cd340873e3154
