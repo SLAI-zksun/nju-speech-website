@@ -11,16 +11,19 @@
 
 {% for section in sections %}
   {% assign section_dark = section
-    | regex_scan: "<dark>(.*?)</dark>"
+    | regex_scan: "<!-- _sec_dark:(.*?) -->"
     | default: ""
+    | strip
   %}
   {% assign section_bg = section
-    | regex_scan: "<background>(.*?)</background>"
-    | default: nil
+    | regex_scan: "<!-- _sec_bg:(.*?) -->"
+    | default: ""
+    | strip
   %}
   {% assign section_size = section
-    | regex_scan: "<size>(.*?)</size>"
+    | regex_scan: "<!-- _sec_size:(.*?) -->"
     | default: "page"
+    | strip
   %}
 
   <section
@@ -29,7 +32,7 @@
     {% if section_dark == "true" or section_dark == "false" %}
       data-dark="{{ section_dark }}"
     {% endif %}
-    {% if section_bg and section_bg != "" %}
+    {% if section_bg != "" %}
       {% assign _bg = section_bg | strip %}
       {% unless _bg contains "<" or _bg.size > 2048 %}
       style="--image: url('{{ _bg | relative_url | uri_escape }}')"
