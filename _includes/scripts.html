@@ -3,8 +3,12 @@
 <script src="https://unpkg.com/tippy.js@6" defer></script>
 <script src="https://unpkg.com/mark.js@8" defer></script>
 
-<!-- include all js in scripts folder -->
-{% assign scripts = site.static_files | where_exp: "file", "file.path contains '/_scripts'" %}
-{% for script in scripts %}
-  <script src="{{ script.path | relative_url }}"></script>
+<!-- include all js in scripts folder (avoid where_exp with complex strings for GitHub Pages / Jekyll 3) -->
+{% assign sorted_scripts = site.static_files | sort: "path" %}
+{% for script in sorted_scripts %}
+  {% if script.path contains '_scripts' %}
+    {% if script.extname == '.js' %}
+      <script src="{{ script.path | relative_url }}"></script>
+    {% endif %}
+  {% endif %}
 {% endfor %}

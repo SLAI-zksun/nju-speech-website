@@ -50,5 +50,44 @@
 
   <nav>
     {% assign current_url = page.url %}
+    {% assign nav_pages = site.pages | where_exp: "p", "p.nav" | sort: "nav.order" %}
+    {% for nav_item in nav_pages %}
+      {% if nav_item.nav %}
+        {% assign nav_href = nav_item.dir | relative_url | uri_escape %}
+        {% assign nav_active = false %}
+        {% if nav_href == "/" %}
+          {% if current_url == "/" %}
+            {% assign nav_active = true %}
+          {% endif %}
+        {% else %}
+          {% assign nav_prefix = nav_href | append: "/" %}
+          {% assign current_prefix = current_url | slice: 0, nav_prefix.size %}
+          {% if current_url == nav_href or current_prefix == nav_prefix %}
+            {% assign nav_active = true %}
+          {% endif %}
+        {% endif %}
+        <a
+          href="{{ nav_href }}"
+          {% if nav_active %}class="nav-active" aria-current="page"{% endif %}
+          data-tooltip="{{ nav_item.nav.tooltip_zh | default: nav_item.nav.tooltip | xml_escape }}"
+          data-tooltip-zh="{{ nav_item.nav.tooltip_zh | default: nav_item.nav.tooltip | xml_escape }}"
+          data-tooltip-en="{{ nav_item.nav.tooltip_en | default: nav_item.nav.tooltip | xml_escape }}"
+        >
+          <span class="lang-zh">{{ nav_item.nav.label_zh | default: nav_item.title }}</span>
+          <span class="lang-en">{{ nav_item.nav.label_en | default: nav_item.title }}</span>
+        </a>
+      {% endif %}
+    {% endfor %}
+    {% if page.url == "/" %}
+      <button
+        id="lang-toggle-btn"
+        class="lang-switch"
+        type="button"
+        onclick="toggleSiteLanguage()"
+        aria-label="Switch language"
+      >
+        EN
+      </button>
+    {% endif %}
   </nav>
 </header>
