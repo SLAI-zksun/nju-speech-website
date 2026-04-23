@@ -1,0 +1,25 @@
+<aside class="people-sidebar">
+  <div class="people-sidebar-title">
+    <span class="lang-zh">实验室人员</span>
+    <span class="lang-en">Lab Members</span>
+  </div>
+
+  <a href="{{ '/team/' | relative_url }}" class="{% if include.active == 'faculty' %}active{% endif %}">
+    <span class="lang-zh">教师</span><span class="lang-en">Faculty</span>
+  </a>
+  <a href="{{ '/team/phd/' | relative_url }}" class="{% if include.active == 'phd' %}active{% endif %}">
+    <span class="lang-zh">博士生</span><span class="lang-en">PhD Students</span>
+  </a>
+  <a href="{{ '/team/master/' | relative_url }}" class="{% if include.active == 'master' %}active{% endif %}">
+    <span class="lang-zh">硕士生</span><span class="lang-en">Master Students</span>
+  </a>
+  <a href="{{ '/team/undergraduate/' | relative_url }}" class="{% if include.active == 'undergraduate' %}active{% endif %}">
+    <span class="lang-zh">本科生</span><span class="lang-en">Undergraduates</span>
+  </a>
+  <a href="{{ '/team/alumni/' | relative_url }}" class="{% if include.active == 'alumni' %}active{% endif %}">
+    <span class="lang-zh">毕业学生</span><span class="lang-en">Alumni</span>
+  </a>
+  <a href="{{ '/team/visiting/' | relative_url }}" class="{% if include.active == 'visiting' %}active{% endif %}">
+    <span class="lang-zh">访问学者</span><span class="lang-en">Visiting Scholars</span>
+  </a>
+</aside>

@@ -1,0 +1,16 @@
+<aside class="people-sidebar">
+  <div class="people-sidebar-title">
+    <span class="lang-zh">新闻公告</span>
+    <span class="lang-en">News &amp; Announcements</span>
+  </div>
+
+  <a href="{{ '/blog/' | relative_url }}" class="{% if include.active == 'highlights' %}active{% endif %}">
+    <span class="lang-zh">近期要事</span><span class="lang-en">Highlights</span>
+  </a>
+  <a href="{{ '/blog/news/' | relative_url }}" class="{% if include.active == 'news' %}active{% endif %}">
+    <span class="lang-zh">实验室新闻</span><span class="lang-en">Lab News</span>
+  </a>
+  <a href="{{ '/blog/announcements/' | relative_url }}" class="{% if include.active == 'announcements' %}active{% endif %}">
+    <span class="lang-zh">实验室公告</span><span class="lang-en">Lab Notices</span>
+  </a>
+</aside>

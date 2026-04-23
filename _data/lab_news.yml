@@ -1,0 +1,9 @@
+- sort_key: 20260407
+  date: "2026-04-07"
+  title_zh: "SLT 2026｜REAL-TSE 挑战赛启动：面向真实场景的目标说话人提取"
+  title_en: "SLT 2026 | REAL-TSE Challenge Launched: Target Speaker Extraction in Real Conversations"
+  keywords_zh: "REAL-TSE｜目标说话人提取｜SLT 2026"
+  keywords_en: "REAL-TSE · Target speaker extraction · SLT 2026"
+  url: "https://mp.weixin.qq.com/s/KWmW7NiwyTv1qSsIF7mtYA"
+  summary_zh: "REAL-TSE 作为 IEEE SLT 2026 卫星赛事启动，聚焦真实多人对话场景下的目标说话人提取；设置在线（≤100 ms 端到端时延）与离线两条赛道，并提供开发集/评测集与多维评测指标。详见比赛官网与 GitHub 仓库。"
+  summary_en: "REAL-TSE launches as an IEEE SLT 2026 satellite challenge for target speaker extraction in real multi-talker conversations, with Online (≤100 ms end-to-end latency) and Offline tracks, public DEV/EVAL splits, and multi-metric evaluation. See the official website and GitHub repositories for details."

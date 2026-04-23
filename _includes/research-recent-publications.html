@@ -1,0 +1,33 @@
+{% assign keyword_filters = include.keywords | split: "|" %}
+{% assign max_items = include.limit | default: 5 %}
+{% assign shown = 0 %}
+
+<div class="result-grid">
+  {% for item in site.data.publications_cards %}
+    {% if shown < max_items %}
+      {% assign matched = false %}
+      {% for k in keyword_filters %}
+        {% assign key = k | strip %}
+        {% if item.keywords == key %}
+          {% assign matched = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% if matched %}
+        <article class="publication-card">
+          <div class="publication-main">
+            <h3>{{ item.title }}</h3>
+            <p><strong><span class="lang-zh">作者</span><span class="lang-en">Authors</span>:</strong> {{ item.authors }}</p>
+            <p><strong><span class="lang-zh">关键词</span><span class="lang-en">Keywords</span>:</strong> <span class="lang-zh">{{ item.keywords }}</span><span class="lang-en">{{ item.keywords_en | default: item.keywords }}</span></p>
+            <p><strong><span class="lang-zh">发表会议/期刊</span><span class="lang-en">Venue</span>:</strong> {{ item.venue }}</p>
+          </div>
+          <div class="publication-meta">
+            <p><strong><span class="lang-zh">时间</span><span class="lang-en">Date</span>:</strong><br>{{ item.date }}</p>
+            <p><a href="{{ item.link }}" target="_blank" rel="noopener noreferrer"><span class="lang-zh">论文链接</span><span class="lang-en">Paper Link</span></a></p>
+          </div>
+        </article>
+        {% assign shown = shown | plus: 1 %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>

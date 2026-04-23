@@ -1,0 +1,19 @@
+<aside class="people-sidebar">
+  <div class="people-sidebar-title">
+    <span class="lang-zh">研究方向</span>
+    <span class="lang-en">Research Directions</span>
+  </div>
+
+  <a href="{{ '/research/' | relative_url }}" class="{% if include.active == 'audio-front-end' %}active{% endif %}">
+    <span class="lang-zh">音频前端</span><span class="lang-en">Audio Front-end</span>
+  </a>
+  <a href="{{ '/research/acoustic-understanding/' | relative_url }}" class="{% if include.active == 'acoustic-understanding' %}active{% endif %}">
+    <span class="lang-zh">音频理解</span><span class="lang-en">Audio Understanding</span>
+  </a>
+  <a href="{{ '/research/acoustic-generation/' | relative_url }}" class="{% if include.active == 'acoustic-generation' %}active{% endif %}">
+    <span class="lang-zh">音频生成</span><span class="lang-en">Audio Generation</span>
+  </a>
+  <a href="{{ '/research/advanced-speech-intelligence/' | relative_url }}" class="{% if include.active == 'advanced-speech-intelligence' %}active{% endif %}">
+    <span class="lang-zh">前沿语音智能</span><span class="lang-en">Advanced Speech Intelligence</span>
+  </a>
+</aside>

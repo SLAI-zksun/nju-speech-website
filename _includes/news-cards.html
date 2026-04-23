@@ -1,0 +1,25 @@
+{% assign feed = site.data.lab_announcements %}
+{% if include.source == "news" %}
+  {% assign feed = site.data.lab_news %}
+{% endif %}
+
+{% assign limit = include.limit | default: 1000 %}
+{% assign shown = 0 %}
+
+<div class="news-card-grid">
+  {% for item in feed %}
+    {% if shown < limit %}
+      {% include news-card.html
+        url=item.url
+        title_zh=item.title_zh
+        title_en=item.title_en
+        date=item.date
+        keywords_zh=item.keywords_zh
+        keywords_en=item.keywords_en
+        summary_zh=item.summary_zh
+        summary_en=item.summary_en
+      %}
+      {% assign shown = shown | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+</div>

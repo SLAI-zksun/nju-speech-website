@@ -1,0 +1,16 @@
+<aside class="people-sidebar">
+  <div class="people-sidebar-title">
+    <span class="lang-zh">研究成果</span>
+    <span class="lang-en">Research Outputs</span>
+  </div>
+
+  <a href="{{ '/projects/' | relative_url }}" class="{% if include.active == 'featured' %}active{% endif %}">
+    <span class="lang-zh">成果推介</span><span class="lang-en">Featured Outputs</span>
+  </a>
+  <a href="{{ '/projects/publications/' | relative_url }}" class="{% if include.active == 'publications' %}active{% endif %}">
+    <span class="lang-zh">论文发表</span><span class="lang-en">Publications</span>
+  </a>
+  <a href="{{ '/projects/awards/' | relative_url }}" class="{% if include.active == 'awards' %}active{% endif %}">
+    <span class="lang-zh">科研奖励</span><span class="lang-en">Awards</span>
+  </a>
+</aside>
